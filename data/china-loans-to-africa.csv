@@ -1,0 +1,1147 @@
+status,year,country,region,borrowerCode,borrowerType,borrowerNotGouv,financier,financeType,group,reportedValue,reportedUnit,cleanUSD,interestRate,liborRate,repayment,grace,term,purpose
+Completed,2002,Angola,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Luanda Hospital
+Signed,2003,Angola,CA,,,Government,CIDCA,ZIL,1.0,11,USD,11,0,,,,,Economic Housing Project
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,41,USD,41,,Libor + 1.5,,5.0,17,"Andulo, Bié and Caála, Huambo, Construction of 2 Agrarian Technical Schools"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,15,USD,15,,Libor + 1.5,,5.0,17,"Quéssua, Malange, Agrarian Institute Rebuild"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,53,USD,53,,Libor + 1.5,,5.0,17,"Benguela, 2 Institute of Technology Constructions; Luanda, 4 Institute of Technology Constructions"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,16,USD,16,,Libor + 1.5,,5.0,17,"Benguela, 1 Secondary School Construction; Luanda, 3 Secondary School Constructions"
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,9,USD,9,,Libor + 1.5,,5.0,17,"Sumbe, Institute of Technology Construction  "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,7,USD,7,,Libor + 1.5,,5.0,17,"Malange, 2 Secondary School Constructions"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,13,USD,13,,Libor + 1.5,,5.0,17,"Huíla, 1 Institute of Technology and 1 Secondary School Construction"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,41,USD,41,,Libor + 1.5,,5.0,17,"Kwanza-Sul and Kwanza-Norte, 2 Agrarian Technical Schools "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,4,USD,4,,Libor + 1.5,,5.0,17,Ambulances Purchase - 86 Units
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,4,USD,4,,Libor + 1.5,,5.0,17,"Huambo, Health Care Center"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,11,USD,11,,Libor + 1.5,,5.0,17,"Malange, 3 Health Care Centers "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,17,USD,17,,Libor + 1.5,,5.0,17,"Cazengo, Kwanza-Norte and Sumbe, Kwanza-Sul, Municipal Hospitals "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,7,USD,7,,Libor + 1.5,,5.0,17,"Dondo and Ndalatando, Kwanza-Norte, 2 Health Care Centers "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,8,USD,8,,Libor + 1.5,,5.0,17,"Namibe, Municipal Hospital of Namibe "
+Completed,2004,Angola,CA,,,Government,Eximbank,FA-sub,1.0,20,USD,20,,Libor + 1.5,,5.0,17,"Agricultural Equipment, Machinery and Tools Purchase "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,29,USD,29,,Libor + 1.5,,5.0,17,Agricultural Equipment for MECANAGRO Purchase
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,86,USD,86,,Libor + 1.5,,5.0,17,"Luena, Caxito, Gangelas, Waco-Kungo Irrigation Projects, Phase I "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,13,USD,13,,Libor + 1.5,,5.0,17,"Quifangondo-Mabubas Transmission Line, 60Kv  "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,25,USD,25,,Libor + 1.5,,5.0,17,"Capanda-Lucala-Ndalatando Transmission Line, 220kV "
+Completed,2004,Angola,CA,,,Government,Eximbank,FA-sub,1.0,40,USD,40,,Libor + 1.5,,5.0,17,"Luanda Electrical Network Rehabilitation and Expansion, Phase II "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,35,USD,35,,Libor + 1.5,,5.0,17,"Cambambe-Luanda Transmission Line, 220kV"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,27,USD,27,,Libor + 1.5,,5.0,17,"Luanda-Sul Substation, 220kV"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,40,USD,40,,Libor + 1.5,,5.0,17,Luanda's Water Supply System
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,20,USD,20,,Libor + 1.5,,5.0,17,Huambo's Water Supply System
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,19,USD,19,,Libor + 1.5,,5.0,17,"Caxito, Catete and Uíge's Water Supply System"
+Completed,2004,Angola,CA,,,Government,Eximbank,FA-sub,1.0,12,USD,12,,Libor + 1.5,,5.0,17,Road Transport Support
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,26,USD,26,,Libor + 1.5,,5.0,17,Hospital of Malange
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,36,USD,36,,Libor + 1.5,,5.0,17,Hospital of Benguela
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,43,USD,43,,Libor + 1.5,,5.0,17,Regional Hospital of Lubango
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,29,USD,29,,Libor + 1.5,,5.0,17,Central Hospital of Huambo
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,39,USD,39,,Libor + 1.5,,5.0,17,"Huambo, Huíla and Benguela, 3 Municipal Hospitals; Benguela, 2 Health Care Centers; Huíla, 2 Health Care Centers "
+Implementation,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,62,USD,62,,Libor + 1.5,,5.0,17,"HBO (2) and HLA (2), 4 Secondary Schools; HBO, HLA and Bié, 3 Institutes of Technology; HBO, Bié, K. Kubango and Cunene, 4 Institutes of Business Administration"
+Implementation,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,84,USD,84,,Libor + 1.5,,5.0,17,"Luanda, Bengo, Cabinda and Namibe, 4 Institutes of Technology; Luanda (2), Benguela (1), Zaire (1), and Namibe (1), 5 Institutes of Business Administration; Luanda (2), Benguela (2) and Namibe (2) 6 Secondary Schools"
+Implementation,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,61,USD,61,,Libor + 1.5,,5.0,17,"Lunda Sul, Lunda Norte and Uíge, 3 Institutes of Technology; Uíge, 1 Agrarian Institute; Uíge and Moxico, 2 Institutes of Business Administration; Uíge, 1 Secondary School"
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,60,USD,60,,Libor + 1.5,,5.0,17,TPA Production Center in Camama Construction and Equipping
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,191,USD,191,,Libor + 1.5,,5.0,17,"Kifangondo-Caxito-Uíge-Negage Road, 371 km "
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,44,USD,44,,Libor + 1.5,,5.0,17,Neto University Campus Completion of the Buildings
+Completed,2005,Angola,CA,,,Government,Eximbank,FA-sub,1.0,37,USD,37,,Libor + 1.5,,5.0,17,Luanda Palace of Justice Courthouse
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,88,USD,88,,Libor + 1.5,,5.0,17,30m Boats - 25 Units; 4.15m Canoes - 1000 Units
+Implementation,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,88,USD,88,,Libor + 1.5,,5.0,17,46.9m Patrol Boats - 5 Units; 33.88m Shrimp Boats - 10 Units; Canoes - 2000 Units
+Implementation,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,64,USD,64,,Libor + 1.5,,5.0,17,"33.56m Fishing Boats - 10 Units; 49m Speed Boat - 1 Unit; 89.86m ""Navo-Porão"" - 1 Unit ; 29.7m Patrol Boats - 5 units ; and 34m Tugboat - 1 Unit"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,49,USD,49,,Libor + 1.5,,5.0,17,"Irrigation Projects (Caxito, Gandgelas, Luena, and Waco-Kungo), Phase II"
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,67,USD,67,,Libor + 1.5,,5.0,17,"Bengo, Bié, K.Norte, K.Sul, LDA, Malange, and Moxico,  New Generation Network, Project 1"
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,61,USD,61,,Libor + 1.5,,5.0,17,"Benguela, K.Norte, Cunene, Huambo, Uíge, and Zaire, New Generation Network, Project 2 "
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,68,USD,68,,Libor + 1.5,,5.0,17,"Bié, HBO, HLA, LDA, New Generation Network, Project 3"
+Completed,2006,Angola,CA,,,Government,Eximbank,FA-sub,1.0,53,USD,53,,Libor + 1.5,,5.0,17,"Bié, HBO, HLA, and LDA, New Generation Network, Project 4 "
+Completed,2008,Angola,CA,,,Government,Eximbank,FA-sub,1.0,26,USD,26,,Libor + 1.5,,5.0,17,"Luanda MT and BT Networks, Phase 3"
+Completed,2008,Angola,CA,,,Government,Eximbank,FA-sub,1.0,27,USD,27,,Libor + 1.5,,5.0,17,"Malange MT and BT Networks, Phase 2"
+Completed,2008,Angola,CA,,,Government,Eximbank,FA-sub,1.0,46,USD,46,,Libor + 1.5,,5.0,17,"Lundas Sul and Norte, Dundo, and Saurimo, MT and BT Networks "
+Completed,2008,Angola,CA,,,Government,Eximbank,FA-sub,1.0,32,USD,32,,Libor + 1.5,,5.0,17,"Lundas Sul and Norte, Dundo and Saurimo Water Systems "
+Signed,2005,Angola,CA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,"Unknown (""Technical Projects"")"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,50,USD,50,,Libor + 1.25,,5.0,15,"Benguela, Huambo and Bié MT and BT Networks, Part 1 - Huambo"
+Completed,2008,Angola,CA,,,Government,Eximbank,FA-sub,1.0,144,USD,130,,Libor + 1.25,,5.0,15,"Luanda MT and BT Networks, Phase 4"
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,23,USD,23,,Libor + 1.25,,5.0,15,"Lubando MT and BT Networks, Phase 2"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,83,USD,83,,Libor + 1.25,,5.0,15,"Luanda's Water Supply System, Package 4"
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,20,USD,20,,Libor + 1.25,,5.0,15,Agricultural Equipment Purchase
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,477,USD,429,,Libor + 1.25,,5.0,15,"Caxito-Nzeto Road Rehabilitation, 208km (Disbursements from 2007 Credit Line)"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,160,USD,144,,Libor + 1.25,,5.0,15,"Nzeto-Tomboco-Mbanza Congo Road Rehabilitation, 214km "
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,73,USD,73,,Libor + 1.25,,5.0,15,"Cabinda's Integrated Infrastructure, Phase I"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,113,USD,102,,Libor + 1.25,,5.0,15,Zaire's Integrated Infrastructure Phase I
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,84,USD,84,,Libor + 1.25,,5.0,15,"Malange's Integrated Infrastructure, Phase I"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,57,USD,57,,Libor + 1.25,,5.0,15,"Cars Purchase - 1500 Units, Phase II"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,62,USD,62,,Libor + 1.25,,5.0,15,Railroad Equipment Purchase
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,440,USD,396,,Libor + 1.25,,5.0,15,"Luanda, Benguela, Huambo, Uíge, Malange Urban Public Transportation Vehicles Purchase - 5,500 Units"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,27,USD,27,,Libor + 1.5,,5.0,17,"Huambo and Bié, Complementary Actions in the Agrarian Technical Schools "
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,11,USD,11,,Libor + 1.5,,5.0,17,"Késsua Malange, Complementary Actions in the Agrarian Technical Schools"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,34,USD,34,,Libor + 1.5,,5.0,17,"Kwanza Sul and Kwanza Norte and  Sumbe, Complementary Actions in the Agrarian Technical Schools"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,27,USD,27,,Libor + 1.5,,5.0,17,"Cacuaco, Sambizanga, Viana, Cazenga, Benguela, and Lobito, Complementary Actions in the Technical Schools "
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,9,USD,9,,Libor + 1.5,,5.0,17,"Cacuaco, Nova Vida, Sapú, and Benguela, Complementary Actions in the Secondary Schools"
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,13,USD,13,,Libor + 1.5,,5.0,17,"Huíla, Complementary Actions in the Secondary School and Technical School; Malange, 2 Secondary Schools"
+Signed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,13,USD,13,,Libor + 1.5,,5.0,17,"Cabinda, Complementary Actions in the Technical School"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,68,USD,68,,Libor + 1.5,,5.0,17,"HBO, Malange, BLA, and Huíla Regional Hospitals"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,65,USD,65,,Libor + 1.5,,5.0,17,Complements to 7 Municipal Hospitals and 9 Health Care Centers
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,Libor + 1.5,,5.0,17,Additional Values to the Municipal Hospital of Caculama
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,51,USD,51,,Libor + 1.5,,5.0,17,"Rehabilitation of the Streets in the Cities of Caxito (20km), Uíge (22km), Negage (10km)"
+Completed,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,36,USD,36,,Libor + 1.5,,5.0,17,Refrigerated Trucks and Isothermal Vans Purchase
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,59,USD,59,,Libor + 1.5,,5.0,17,"418,750 New Telecommunication Lines"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,Libor + 1.5,,5.0,17,"Implementing 26,000 New Household Connections and Expansion of the SE-PS05 Catete Road (Rehabilitation and Expansion of LDA's Electrical Network-PhaseII)"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,21,USD,21,,Libor + 1.5,,5.0,17,"Expansion of the Network of MT, BT and IP in the city of Caxito and Rehabilitation of the Quifangondo-Cazenga Line (Reconstruction of 60Kv Transmission Line and Quif.-Mabubas Substation)"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,9,USD,9,,Libor + 1.5,,5.0,17,"Expansion of the Water Supply Network in the City of Huambo, Building of 20 Fountains and 2,000 New Household Connections, Building of Sewage Sludge Treatment Station and One Year of System Management Support"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,26,USD,26,,Libor + 1.5,,5.0,17,"Building of Residual Water Treatment Station (Quifangondo), Distribution Center in the Municipality of Cacuaco, and Implementing New Household Connections (Contract of Rehabilitation of Luanda's Water System)"
+Implementation,2007,Angola,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,Libor + 1.5,,5.0,17,"Expansion of the water supply network in the cities of Caxito and Catete, Building of Fountains and 100 New Household Connections and Assistance with System Management for One Year, and Rehabilitation of the Water Treatment System in Uíge, Expansion of the Water Supply Network and System Management Support for One Year"
+Completed,2010,Angola,CA,,,Government,Eximbank,FA-sub,1.0,3000,AOA,28,,,,,,Saurimo's Airport Aerogare Construction
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2810,AOA,30,,,,,,"Water Supply Systems in Catete and Uíge Rehabilitation and Reinforcement, Phase 2 "
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2890,AOA,31,,,,,,"Water Supply Systems in Tômbwa, Rehabilitation and Reinforcement, Phase 2"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2000,AOA,21,,,,,,"MT/BT Networks - Lunda-Norte and Lunda-Sul Rehabilitation and Expansion, Phase 1"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,342,AOA,4,,,,,,MT and BT Networks of Mbanza Congo Rehabilitation
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,3089,AOA,33,,,,,,"Purchase of Tractors, Repair of Machines, Construction of Workshops, Training of Mecanagro Technicians"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,1100,AOA,12,,,,,,"Purchase of 435 Isothermal Refrigerator Trucks for General, Frozen, Dry, or Salted Fish Cargo"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,1528,AOA,16,,,,,,"Purchase of 10 Line Fishing Boats, 1 Freezer Ship, 5 Patrol Boats, 1 Boat"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2328,AOA,25,,,,,,"Lunda-Norte and Lunda-Sul Water Supply Rehabilitation and Reinforcement, Part 1"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2400,AOA,25,,,,,,Replacement of 1500 Cars Destroyed in the War
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,7876,AOA,83,,,,,,"Rehabilitation, Modernization of Workshops, Angola's Railways"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,6600,AOA,70,,,,,,Catamaran Boats Purchase - 4 Units
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,8100,AOA,86,,,,,,Purchase of Railway Rolling Stock
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,8000,AOA,85,,,,,,"Luanda-Soyo Highway Rehabilitation, Nzeto-Soyo Section, 141km "
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,5000,AOA,53,,,,,,"Luanda-Soyo Highway, Bridge over M'Bridge River, Package 4 "
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,4400,AOA,46,,,,,,"Luanda-Soyo Highway, Package 5 (Km 8 to Km 104)"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,4400,AOA,46,,,,,,"Luanda-Soyo Highway, Package 6 (Km 104 to Km 149)"
+Implementation,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,4400,AOA,46,,,,,,"Luanda-Soyo Highway, Infrastructure Work for the Nzeto-Soyo Section, Package 7 "
+Implementation,2012,Angola,CA,,,Government,Eximbank,FA-sub,1.0,1900,AOA,20,,,,,,"Water Supply Systems in Tômbwa Rehabilitation and Reinforcement, Phase 2"
+Completed,2014,Angola,CA,,,Government,Eximbank,FA-sub,1.0,112,USD,112,,,,,,Hydropower in Chiumbe-dala 12.42MW and 99.6km Transmission Line in Luena 110kV
+Completed,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,1300,AOA,14,,,,,,Angola E-Government Project for Cnti - Project 1
+Completed,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,3400,AOA,36,,,,,,"Angola E-Government Project for 13 ""Cap. Prov."" - Project 4"
+Completed,2011,Angola,CA,,,Government,Eximbank,FA-sub,1.0,2110,AOA,22,,,,,,Angola E-Government project for Luanda - Project 2
+Completed,2014,Angola,CA,,,Government,Eximbank,FA-sub,1.0,68,USD,68,,,,,,Guimba Farm (Cuimba Farm)
+Implementation,2017,Angola,CA,,,Government,Eximbank,Loan,1.0,65,USD,65,,,,,,National Geology Plan Project
+Implementation,2017,Angola,CA,,,Government,CDB,Loan,1.0,36,USD,36,,,,,,Ministry of Energy and Water Training Center & Database
+Completed,2009,Angola,CA,,,Government,Eximbank,Loan,1.0,30000,AOA,337,,,,,,Angola E-Government Project for 4 Major Province's Capitals - Project 3
+Signed,2012,Angola,CA,,,Government,China Energy Engineering Corporation (CEEC),SC,1.0,22,USD,22,,,,,,Mabubas Hydropower Project Expansion 10MW
+Completed,2010,Angola,CA,,,Government,ICBC,EBC,1.0,60,USD,60,,,,,,Lomaum Hydropower Project 65MW
+Completed,2013,Angola,CA,,,Government,Eximbank,EBC,1.0,1180,USD,1003,,,,,,"Soyo-Kapary Transmission, 400kV and Transformation Project "
+Completed,2015,Angola,CA,,,Government,ICBC,CommL,1.0,838,USD,838,,,10.0,5.0,15,Soyo I Combined Cycle Power Plant Phase I 750MW
+Signed,2007,Angola,CA,,,Government,Eximbank,Loan,1.0,3,USD,3,,,,,,Cabinda Province to Zaire Province Road (Soyo Road?)
+Implementation,2016,Angola,CA,,,Government,"MixedCN: Industrial and Commercial Bank of China Ltd. (ICBC), Export-Import Bank of China (Eximbank), Bank of China (BoC), China Construction Bank (CCB), China Minsheng Bank, Ping An Bank Co., Ltd., Bank of China (BoC)",CommL,1.0,3700,USD,3700,,,,,15,Caculo Cabaca Hydropower Project 2170MW and transmission lines
+Completed,2002,Angola,CA,,,Government,Eximbank,Loan,1.0,90,USD,90,,,,,,"Luanda Railway Phase I Rehabilitation, 444km (Luanda-Malanje line)"
+Implementation,2016,Angola,CA,,,Government,Eximbank,Loan,1.0,932,USD,932,,,10.0,5.0,15,Caio Port in Cabinda & Sinosure Premium
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,4600,AOA,49,,,,,,"Irrigation Canal in Calueque, Cunene, Phase I"
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,1300,AOA,14,,,,,,"Irrigation Canal in Calueque, Cunene, Phase II"
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,3089,AOA,33,,,,,,"Purchase of Tractors, Repair of Machines, Construction of Workshops, Training of Mecanagro Technicians"
+Completed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,74,USD,59,,,,,,"Construction of Integrated Infrastructure, Lar do Patriota, Phase I "
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,8100,AOA,86,,,,,,"Camama - Road Infrastrcture, Disbursement 1"
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,2900,AOA,31,,,,,,"Camama - Road Infrastructure, Disbursement 2"
+Completed,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,12323,AOA,130,,,,,,"Cazenga/Sambizanga, Construction of Requalified Infrastructure"
+Implementation,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,1600,AOA,17,,,,,,"Cazenga / Sambizanga, Social Equipments Requalification, Disbursement 3"
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,3300,AOA,34,,,,,,"Calueque, Cunene, Irrigation Canal, Phase II"
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,5200,AOA,54,,,,,,"Camama - Road Infrastructure, Disbursement 3"
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,5200,AOA,54,,,,,,"Cazenga/Sambizanga, Infrastructures Requalification, Disbursement 4"
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,901,AOA,9,,,,,,"Cazenga / Sambizanga, Social Equipments Requalification, Disbursement 4"
+Completed,2011,Angola,CA,,,Government,CDB,MFA-sub,1.0,117,USD,117,,,,,,"Malange, Pedras Negras Farm "
+Completed,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,129,USD,129,,,,,,"Uige, Sanza Pombo Farm "
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,77,USD,77,,,,,,"Cuando Cubango, Longa Farm"
+Implementation,2012,Angola,CA,,,Government,CDB,MFA-sub,1.0,89,USD,89,,,,,,"Bie, Camacupa Farm "
+Completed,2013,Angola,CA,,,Government,CDB,MFA-sub,1.0,79,USD,79,,,,,,"Moxico, Camaiangala Farm "
+Implementation,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,86,USD,86,,,,,,"Cunene, Manquete Farm "
+Signed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,27,USD,22,,,,,,"Construction of Integrated Infrastructure, Cabinda, Phase 1 Stage 2"
+Signed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,15,USD,12,,,,,,"Construction of Integrated Infrastructure, Malanje, Phase 1 Stage 2"
+Signed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,22,USD,17,,,,,,"Construction of Integrated Infrastructure, Vila do Soyo, Phase 1 Stage 2"
+Signed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,46,USD,37,,,,,,"Construction of Integrated Infrastructure, Viana, Phase 1"
+Signed,2014,Angola,CA,,,Government,CDB,MFA-sub,1.0,69,USD,55,,,,,,"Construction of Integrated Infrastructure, Caxito, Phase 1"
+Completed,2002,Angola,CA,,,Government,Eximbank,Loan,1.0,15,USD,15,,,,,,"Luanda Electrical Network Expansion, Phase I "
+Completed,2002,Angola,CA,,,Government,Eximbank,Loan,1.0,15,USD,15,,,,,,Lubango Electricity Network
+Completed,2002,Angola,CA,,,Government,Eximbank,Loan,1.0,25,USD,25,,,,,,Namibe and Tombowa Electricity
+Completed,2010,Angola,CA,2.0,AfrStateCom,Sociedade Nacional de Combustíveis de Angola (Sonangol) (SOE),ICBC,CommL,1.0,2500,USD,2500,,,,,8,Kilamba Kiaxi New Town
+Implementation,2011,Angola,CA,2.0,AfrStateCom,Sociedade Nacional de Combustíveis de Angola (Sonangol) (SOE),CDB,CommL,1.0,2000,USD,2000,,,,,9.33,Sonangol Development
+Implementation,2012,Angola,CA,2.0,AfrStateCom,Sociedade Nacional de Combustíveis de Angola (Sonangol) (SOE),CDB,CommL,1.0,1000,USD,1000,,Libor + 3.5,,,10,Sonangol Development
+Implementation,2013,Angola,CA,2.0,AfrStateCom,Sociedade Nacional de Combustíveis de Angola (Sonangol) (SOE),CDB,CommL,1.0,2500,USD,2500,,,,,7,Sonangol Development
+Implementation,2014,Angola,CA,2.0,AfrStateCom,Sociedade Nacional de Combustíveis de Angola (Sonangol) (SOE),CDB,CommL,1.0,2000,USD,2000,,,,,10,Sonangol Development
+Completed,2004,Angola,CA,,,Government,Eximbank,Loan,1.0,3000,CNY,362,,,,,,"Benguela Railway, Huambo Railway, 1344km"
+Implementation,2017,Angola,CA,,,Government,CDB,MFA-sub,1.0,2200,USD,2200,,,,,,Multisector
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,50,USD,50,,,,,,"Cabinda Campus, 11 de Novembro University, Phase II"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,46,USD,46,,,,,,"Caconda-Ngalo River Road in Huíla, EN110 and 280 Road Rehabilitation, Phase I "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,51,USD,51,,,,,,"Ngalo River-Quipungo Road in Huíla, Rehabilitation of EN110 and 280, Phase II  "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,48,USD,48,,,,,,"Lunda-Sul Road Rehabilitation, Xinge-Lubalo Connection"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,56,USD,56,,,,,,"Cuanza-Sul EN120 Road Rehabilitation Lot 4, Alto Dondo / Waco Kungo / Bridge of the River Keve, Lot 04 - São Mamede / Waco Kungo, 57.5 km "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,76,USD,76,,,,,,"Cabinda Water Supply System, including the Sassa-Zau Water Treatment Plant, Part 1 "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,76,USD,76,,,,,,"Cabinda Water Supply System, Part 2"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,6,USD,6,,,,,,"Lucapa, Lunda-Norte Water Supply System"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,7,USD,7,,,,,,"Kiwaba Nzoje, Malanje Water Supply System"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,17,USD,17,,,,,,"Cacula, Huila Water Supply System "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,6,USD,6,,,,,,"Jamba, Huila Water Supply System"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,7,USD,7,,,,,,"Cangandala, Malanje Water Supply System "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,11,USD,11,,,,,,"Muxima, Luanda Water Supply System "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,13,USD,13,,,,,,"Quela, Malanje Water Supply System "
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,30,USD,30,,,,,,M´Banza Congo Water Supply System
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,34,USD,34,,,,,,Luanda Rehabilitation of EN100 Part One
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,50,USD,50,,,,,,"Cuanza-Sul, EN100 Road Rehabilitation, Cabo Ledo-Lobito Road Lot 2, Ponte do Rio Longa-Ponte do Rio Keve"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,31,USD,31,,,,,,"Cuanza-Sul, EN100 Rehabilitation, Cabo Ledo-Lobito Road Lot 4, Sumbe-Ponte do Rio Eval "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,41,USD,41,,,,,,"Benguela, EN100 Road Rehabilitation, Cabo Ledo-Lobito  Lot 5, Ponte do Rio Eval/ Ponte do Rio Culango"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,20,USD,20,,,,,,Cuanza Sul Rehabilitation of EN120 Part 2
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,49,USD,49,,,,,,"Cuanza-Sul Rehabilitation of EN120 Part 5, High Dondo / Waco Kungo / Keve River Bridge, Lot 05 - Waco Kungo / Keve River Bridge, 31.1km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,53,USD,53,,,,,,"EN230 Road Lot 1 Lucala-Malage-Saurimo, Intersection to EN322"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,60,USD,60,,,,,,"EN230 Road Lot 2 Cacuso-Malange, 68.8km "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,27,USD,27,,,,,,"EN321 Road Rehabilitation, Maria Teresa to Dondo, 61km"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,12,USD,12,,,,,,"Cuanza Sul,  EC247 Road Rehabilitation, EN120-Cassongue Connection, 37km"
+Completed,2015,Angola,CA,,,Government,CDB,MFA-sub,1.0,52,USD,52,,,,,,"Housing Contracts in Cunene-450 Units and in Uíge-500 Units
+"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,46,USD,46,,,,,,"Sambizanga, Luanda, Rua 12 de Julho Road "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,55,USD,55,,,,,,"Malanje, Talamungongo - Mussolo - Cambundi - Catembo Road Rehabilitation, 290km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,38,USD,38,,,,,,Breakwater at Cabinda Port
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,26,USD,26,,,,,,"Airport Terminals in Cuito, Bie "
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,40,USD,40,,,,,,"Headquarters of Government, Police Stations, and Warehouses in Cabinda, Phase 1 "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,60,USD,60,,,,,,Cabinda Airport Expansion
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,60,USD,60,,,,,,Construction of the River and Land Terminal in Soyo City
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,56,USD,56,,,,,,Marine Passenger Terminal in Cabinda
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,23,USD,23,,,,,,"EN100 Road Rehabilitation, Part 3 "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,38,USD,38,,,,,,"Benguela, EN100 Road Rehabilitation Lot 6, 39km"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,38,USD,38,,,,,,"Cuanza Sul, EN120 Road Rehabilitation, Part 3, Alto Dondo / Waco Kungo / Bridge of the River Keve, 52km, Lot 03 - Jetty on the Quimone / São Mamede Riv"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,51,USD,51,,,,,,"EN120 Road Rehabilitation Lot 1, Alto Dondo-Desvio da Munenga, 46km"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,26,USD,26,,,,,,"Luanda, N´Gola Kiluange Road Rehabilitation, 35.9km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,31,USD,31,,,,,,"Five Roads in Luanda Province Rehabilitation: Patriota-Talatona, Rua da Brigada, Rua D no Benfica, Rua Soba Mandume e Ramal de Bom Jesus"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,47,USD,47,,,,,,"Huambo City, Electrification of 17,500 Home Connections  "
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,452,USD,452,,,,,,"Luanda, Electrification of 300,000 Home Connections "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,47,USD,47,,,,,,"Lubango/Matala, Huila, Electrification of 12,500 Home Connections"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,47,USD,47,,,,,,"Cabinda City, Electrification of 20,000 Household Connections "
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,340,USD,340,,,,,,"Lauca-Huambo, Electricity Transmitting and Transforming System Construction"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,71,USD,71,,,,,,"Benguela City, Electrification Contract and 22,800 Household Connections"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,9,USD,9,,,,,,"Bibala, Namibe, Water Supply System "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,19,USD,19,,,,,,"Tchindjendje, Huambo, Water Supply System"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,33,USD,33,,,,,,"Ecunha, Huambo, Water Supply System"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,39,USD,39,,,,,,"Cuito, Bié, Water Supply System"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,18,USD,18,,,,,,"Gabela/Quilenda, Cuanza-Sul, EN110 Road Rehabilitation, 35km "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,29,USD,29,,,,,," Cuito, Bie, Road Rehabilitation, 15km "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,25,USD,25,,,,,,"Malanje, Mussolo-Dumba Cabango Road Rehabilitation, 43km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,50,USD,50,,,,,,"Uige, Uige-Calumbo-Dambi-Negage Road Rehabilitation, 37.5km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,8,USD,8,,,,,,"Huambo, Catchiungo-Chinhama Road Rehabilitation, 65km "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,9,USD,9,,,,,,"Massango, Malanje, Water Supply System Construction"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,10,USD,10,,,,,,"Uige, Quitexe-Ambuíla Road Rehabilitation "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,12,USD,12,,,,,,"Marimba, Malanje, Water Supply System"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,29,USD,29,,,,,,"Cuanza Norte, Alto Dondo-Capanda Road Rehabilitation, São Pedro da Quilemba - Alto Dondo, 48 km"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,27,USD,27,,,,,,"Malanje, Caculama (Mucari)- Tala Mungongo Road"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,31,USD,31,,,,,,"Malanje City, Water Supply System Construction "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,11,USD,11,,,,,,"Cunhinga, Bie, Water Supply System Construction"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,8,USD,8,,,,,,"Chitembo, Bie, Water Supply System Construction"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,18,USD,18,,,,,,"Bula Atumba, Bengo, Water Supply System Construction"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,10,USD,10,,,,,,"Bula Atumba, Bengo, Water Supply System Construction "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,18,USD,18,,,,,,"Tchicala-Tcholoanga, Huambo, Water Supply System Construction "
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,8,USD,8,,,,,,"Nharêa, Bié, Water Supply System Construction"
+Signed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,10,USD,10,,,,,,"Camucuio, Namibe, Water Supply System Construction"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,41,USD,41,,,,,,"Muxaluando, Bengo, Water Supply System Construction"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,48,USD,41,,,,,,"Luanda Water Distribution Systems - Panguila, Caop-Velha, Km 32"
+Implementation,2015,Angola,CA,,,Government,CDB,MFA-sub,1.0,51,USD,51,,,,,,"Kwanza Sul, Porto Amboim Water Supply System Improvement  "
+Completed,2015,Angola,CA,,,Government,CDB,MFA-sub,1.0,139,USD,139,,,,,,"Huambo City, Water Supply Network Construction, Lot 1 & 2, Phase II"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,37,USD,37,,,,,,"Sambizanga, Social Houses in Luanda - 3000 Units "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,28,USD,24,,,,,,"Luanda, Candelabro Water Distribution Center "
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,189,USD,189,,,,,,"Rehabilitation of the Cabolongo-Cacuaco Expressway, Connection to the Camama Road with Access to Zango and Central Kilamba"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,156,USD,156,,,,,,"Rehabilitation of EN230, with Connection to the Unidade Operativa Overpass, and Improvements of the Luanda-Viana VIA Expressway"
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,245,USD,245,,,,,,Rehabilitationof EN230 between Viana and the New Luanda/Catete International Airport
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,87,USD,87,,,,,,Lar do Patriota Basic Infrastructure Phase II
+Implementation,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,27,USD,27,,,,,,"Cruzamento-Cassongue Road Rehabilitation, 37m"
+Implementation,2017,Angola,CA,,,Government,CDB,MFA-sub,1.0,38,USD,38,,,,,,Malanje Youth House
+Signed,2017,Angola,CA,,,Government,CDB,MFA-sub,1.0,19,USD,19,,,,,,Namibe Province Urban Roads - Mocamedes Rehabilitation
+Implementation,2017,Angola,CA,,,Government,CDB,MFA-sub,1.0,28,USD,28,,,,,,Dredging of the Malanje River
+Implementation,2019,Angola,CA,,,Government,ICBC,CommL,1.0,125,USD,106,,,,,,"Sumbe City, Cuanza Sul, Integrated Infrastructure Lot 2 - Drainage"
+Completed,2016,Angola,CA,,,Government,CDB,MFA-sub,1.0,10000,USD,10000,,,,,,Sonangol Recapitalization
+Implementation,2013,Angola,CA,,,Government,ICBC,CommL,1.0,180,USD,180,,,,,,"Luachimo Hydropower Project, 36MW"
+Signed,2016,Angola,CA,,,Government,CDB,Loan,1.0,454,USD,386,,,,,,Package S5- Quilonga Grande Construction
+Signed,2016,Angola,CA,,,Government,CDB,Loan,1.0,13,USD,13,,,,,,Construction of the CD Morar and Installation of the System of Monitoring and Safety of Adductive Pipes in Luanda
+Completed,2013,Angola,CA,,,Government,ICBC,EBC,1.0,130,USD,130,,,,,,"Luanda, Water Distribution Networks "
+Signed,2013,Angola,CA,,,Government,Eximbank,Loan,1.0,20,USD,20,,,,,,Hotel Luanda Reconstruction
+Completed,2016,Angola,CA,,,Government,Eximbank,Loan,1.0,46,USD,39,,,,,,"3 Training Centers and Equipment for Angolan Railway Companies in Luanda (CFL), Benguela (CFB) and Moçâmedes"
+Implementation,2014,Angola,CA,,,Government,ICBC,CommL,1.0,120,USD,120,,,,,,"Futungo de Belas Real Estate Development Project, Phase I - 8000 Units"
+Completed,2013,Angola,CA,,,Government,CDB,Loan,1.0,54,USD,54,,,,,,"Luanda, Marçali Water Distribution Centre Rehabilitation "
+Signed,2015,Angola,CA,,,Government,CDB,Loan,1.0,20,USD,20,,,,,,"Road Rehabilitation in Nharea, Bie, Stecol Corporation (中水电十三局), 12km "
+Signed,2013,Angola,CA,,,Government,Eximbank,Loan,1.0,21,USD,21,,,,,,Hotel Namibe Reconstruction
+Signed,2013,Angola,CA,,,Government,Eximbank,Loan,1.0,21,USD,21,,,,,,Hotel Huila Reconstruction in Lubango
+Signed,2013,Angola,CA,,,Government,Eximbank,Loan,1.0,20,USD,20,,,,,,Hotel Benguela Reconstruction
+Signed,2013,Angola,CA,,,Government,Eximbank,Loan,1.0,23,USD,23,,,,,,Hotel Cabinda Reconstruction
+Implementation,2012,Angola,CA,,,Government,BoC,CommL,1.0,110,USD,110,,,,,,4 Telecommunication Projects
+Implementation,2017,Angola,CA,,,Government,BoC,EBC,1.0,150,USD,150,,,,,,"Railway Connection for the New Luanda International Airport to Luanda City, 17.4km "
+Completed,2015,Angola,CA,,,Government,Eximbank,Loan,1.0,509,USD,509,,,,,,Nzeto-Soyo Road
+Implementation,2015,Angola,CA,,,Government,ICBC,CommL,1.0,94,USD,80,,,,,,"Housing Projects in Malanje - 500 Units, Moxico - 450 Units, and Bié - 500 Units"
+Implementation,2018,Angola,CA,,,Government,ICBC,CommL,1.0,405,USD,405,,,,,,Electrification and Home Connections in Zaire Province
+Signed,2000,Democratic Republic of Congo,CA,6.0,JV,"Congo-China Telecom S.A.R.L. (CCT) (Congo 49%, formerly ZTE now France Telecom 51%)",Eximbank,CL,1.0,80,CNY,10,,,,,,Establishing Joint-Venture Congo China Telecom
+Signed,2005,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,10,CNY,1,0,,,,,Unknown
+Signed,2006,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,1,USD,1,0,,,,,Unknown
+Signed,2007,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,10,CNY,1,0,,,,,Unknown
+Completed,2009,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,19,USD,19,,Libor+1,,,,"Boulevard du 30 Juin Refurbishment in Kinshasa, Part 2 (2.5km)"
+Completed,2009,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,20,USD,20,,Libor+1,,,,"Esplanade in front of the People's Palace in Kinshasa Refurbishment, 24380 sqr m"
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,24,USD,24,,Libor+1,,,,"Kinshasa, Avenue du Tourisme Refurbishment, 6.8km"
+Completed,2009,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,29,USD,29,,Libor+1,,,,"Kinshasa, Triomphal and Sendwe Boulevards Refurbishment - Original (3.67km)"
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,115,USD,115,,Libor+1,,,,"Kinshasa, Bed Construction in Hopital du Cinquantenaire - 450 beds (40,000 sqr m)"
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,21,USD,21,,Libor+1,,,,"Kinshasa, Lutendele Avenue Refurbishment, 2.8km"
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,57,USD,57,,Libor+1,,,,"North Kivu: Beni - Niania Road Refurbishment, 60km"
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,51,USD,51,,Libor+1,,,,Katanga: Lubumbashi - Kasomeno RN5 Grading (137km)
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,88,USD,88,,Libor+1,,,,Katanga: Lubumbashi - Kasomeno RN5 Asphalting (137km)
+Completed,2011,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,8,USD,8,,Libor+1,,,,"Kisangani, Factory to Build Prefabricated Houses (14,400 sqr m)"
+Completed,2010,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,15,USD,15,,,,,,"RN5 Bukavu - Ngangezi - Kamanyola Upgrade, 55km, Phase I (5/55km)"
+Completed,2010,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,23,USD,23,,,,,,"RN2 Crossing to Butembo, Phase I (7.5km)"
+Completed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,"Goma: Bunagana - Rutshuru - Goma Road, 15km"
+Completed,2009,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,26,USD,26,,Libor+1,,,,"Boulevard du 30 Juin Refurbishment in Kinshasa, Part 1 (5.3km)"
+Completed,2014,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,30,USD,30,,,,,,"Lwambo - Mitwaba - Manono - Kalemie Road Rehabilitation, Phase I (171.6/466km) - Dirt Road"
+Completed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,,,,,Kolwezi Road Rehabilitation and Modernization
+Implementation,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,15,USD,15,,,,,,Mbuji Mayi to Mwene Ditu Road Resurfacing
+Implementation,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,15,USD,15,,,,,,"Kalemie Road Rehabilitation and Modernization, Phase I"
+Implementation,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,Bunia Stadium
+Implementation,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,16,USD,16,,,,,,Kalemie Stadium
+Completed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,12,USD,12,,,,,,Goma Stadium Construction
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,2,USD,2,,,,,,Feasibility Study for the Rehabilitation and Modernization Project of the Mwene Ditu - Nguba Road
+Implementation,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,39,USD,39,,,,,,Nzolana Avenue Rehabilitation and Anti-Erosion Control
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,Construction Project of the Water Collection and Treatment Unit in Kamina in Katanga
+Signed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,,,,,Kabalo Bridge Construction and Modernization Project
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,,,,,Kabongo-Dianda - Mukwende Road Rehabilitation Project (350 km)
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,,,,,Kamina - Kabongo Road Rehabilitation Project (230 km)
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,Kikwit - Idiofa Road Rehabilitation and Modernization Project (70 km)
+Signed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,5,USD,5,,,,,,Kitanda - Ankoro Road Rehabilitation and Modernization Project (70km)
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,15,USD,15,,,,,,Kisangani Road Rehabilitation and Modernization Project (10.914 km)
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,Manono Road Rehabilitation and Modernization Project (5 km)
+Signed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,5,USD,5,,,,,,"Uvira Road Rehabilitation and Modernization Project, Phase I (5 km)"
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,5,USD,5,,,,,,Ankoro - Manono Road Rehabilitation and Modernization Project (115km)
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,14,USD,14,,,,,,Bukavu Stadium Project
+Signed,2016,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,"Study, Supply and Installation Contract for 5,000 Solar Poles and Accessories"
+Signed,2017,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,6,USD,6,,,,,,Kalemie Airport Terminal Construction
+Signed,2017,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,5,USD,5,,,,,,"Kinshasa, Triomphal and Sendwe Boulevards Reinforcement (3.67km)"
+Implementation,2018,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,57,USD,57,,,,,,"RN5 Bukavu - Ngangezi - Kamanyola Upgrade, Phase II (50/55km)"
+Completed,2015,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,11,USD,11,,,,,,"RN2 Crossing to Butembo, Phase II (7.5km)"
+Implementation,2018,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,27,USD,27,,,,,,"Kalemie Road Rehabilitation and Modernization, Phase II"
+Implementation,2018,Democratic Republic of Congo,CA,,,Government,Eximbank,FA-sub,1.0,10,USD,10,,,,,,Lualaba: Kanina - Musonoï - Kapata Road Construction (12.93 km)
+Signed,2008,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,80,CNY,12,0,,,,,Unknown
+Signed,2009,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Implementation,2011,Democratic Republic of Congo,CA,,,Government,Eximbank,PEBC,1.0,367,USD,367,2,,,,20,Zongo II Hydropower Station 150MW
+Completed,2008,Democratic Republic of Congo,CA,,,Government,Eximbank,CL,1.0,245,CNY,36,,,,,,Fiber-Optic Cables Phase I
+Completed,2012,Democratic Republic of Congo,CA,,,Government,Eximbank,CL,1.0,45078,XAF,91,,,,,,Fiber-Optic Cables Phase II
+Implementation,2012,Democratic Republic of Congo,CA,,,Government,Eximbank,CL,1.0,60,USD,60,,,,,,N'Djili Airport Runway Refurbishment
+Implementation,2011,Democratic Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,40,USD,40,,,,,,Government Internal Telecom Network
+Signed,2019,Democratic Republic of Congo,CA,,AfrGov,Government,Eximbank,CL,1.0,301,USD,301,2,,,7.0,20,N'Djili Airport Terminal (Kinshasa)
+Completed,2013,Democratic Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,8,USD,8,,,,,,Economic and Technical Assistance
+Implementation,2018,Democratic Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,299,USD,299,2,,,7.0,20,220 KV substation in Kinsuka and Associated Distribution Networks
+Implementation,2011,Central African Republic,CA,,AfrGov,Government,CIDCA,ZIL,1.0,173,CNY,18,0,,,,,Boali No.3 Hydropower Project 10MW
+Signed,2003,Central African Republic,CA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,5,Social and Economic Development Projects
+Signed,2003,Central African Republic,CA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0,,,,,Civil Servant Salaries
+Signed,2004,Central African Republic,CA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0,,,,,Overcome Financial Hardship
+Signed,2007,Central African Republic,CA,,,Government,CIDCA,ZIL,1.0,4,USD,4,0,,,,,Unknown
+Signed,2009,Central African Republic,CA,,,Government,CIDCA,ZIL,1.0,2600,XAF,6,0,,,,,Customs Inspections Machines
+Completed,2005,Central African Republic,CA,6.0,JV,"Société Centrafricaine de Télécommunications (Socatel) (CAR 60%, France Telecom 40%)",Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,60,EUR,60,,,,,,Mobile and Fixed Network
+Completed,2000,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,200,CNY,24,,,,,,"Lutete, Cement Factory "
+Completed,2001,Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,3000,XAF,4,0,,,,,Unknown
+Completed,2003,Republic of Congo,CA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,238,USD,238,0.2,,,,15,Imboulou Hydropower Station 120MW
+Implementation,2005,Republic of Congo,CA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,649,USD,552,0.2,,16.5,3.5,20,Energy Transmission Network from Imboulou Hydropower: 780km of 220kV; 91km of 110kV; 350km of 20kV&30kV
+Completed,2008,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,180,USD,180,0.25,,,5.0,20,"Brazzaville, Maya-Maya Airport"
+Completed,2009,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,305,USD,259,0.25,,,5.0,20,"Djiri, Drinking Water Supply Projects"
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,665,USD,565,0.25,,,5.0,20,"National Route 1 Pointe-Noire-Brazzaville Road, Phase I (Pointe-Noire to Dolisie, 164km)"
+Completed,2009,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,163000,XAF,303,0.25,,,5.0,20,"National Route 2, Owando-Makoua-Ouesso Road, Phase I (Owando-Makoua-Mambili, 126km)"
+Completed,2008,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,125,USD,106,0.25,,,5.0,20,"Gabon Border Road, Obouya-Boundji-Okoyo-Gabon Border, aka OBO Road, 125km, Phase I"
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,62,USD,53,0.25,,,5.0,20,"Brazzaville, Ollombo Airport Modernization"
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,52,USD,45,0.25,,,5.0,20,"""815""/""August 15"" Social Housing Complex - 200 Units"
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,17,USD,15,0.25,,,5.0,20,Oyo General Hospital and Hospital Road
+Completed,2013,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,63,USD,63,0.25,,,5.0,20,Oyo Harbor Phase 1
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,110,USD,110,0.25,,,5.0,20,Liouesso Hydropower Project 19.9MW
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,116409,XAF,234,0.25,,,5.0,20,"National Route 2, Owando-Makoua-Ouesso Road, Phase II (Mambili-Ouésso, 199km)"
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,36638,XAF,74,0.25,,,5.0,20,"Gabon Border Road, Okoyo-Lékéty-Frontier Road, 90km, Phase II"
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,21859,XAF,37,0.25,,,5.0,20,"74km Transmission Line from Liouesso Hydropower Project to the town of Ouesso-North, 110kV "
+Completed,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,55,USD,55,0.25,,,5.0,20,264 Social Housing Units in Mpila (Brazzaville)
+Implementation,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,73,USD,62,0.25,,,5.0,20,Mpila Commercial Zone (Brazza-Mall)
+Implementation,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,23,USD,19,0.25,,,5.0,20,Mpila Memorial Hall
+Implementation,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,386,USD,328,0.25,,,5.0,20,"Brazzaville Commercial Center (""Gemini"" Twin Towers)"
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,600300,XAF,1208,0.25,,,5.0,20,"National Route 1, Pointe-Noire-Brazzaville Road, Phase II (Dolisie-Brazzaville, 376km)"
+Signed,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,25500,XAF,47,0.25,,,5.0,20,Housing in Mpila
+Signed,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,70,USD,70,0.25,,,5.0,20,Social Housing in Mt. Mambou
+Signed,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,6,USD,6,0.25,,,5.0,20,Social Housing in Mt. Barnier
+Signed,2014,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,11,USD,11,0.25,,,5.0,20,Social Housing in Ndouo
+Completed,2013,Republic of Congo,CA,,,Government,Eximbank,Loan,1.0,23,USD,23,0.25,,,5.0,20,Oyo Harbor Phase 2
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,250,CNY,32,2,,12.0,8.0,20,MA60 Passenger Aircrafts Purchase - 3 Units
+Completed,2013,Republic of Congo,CA,,,Government,CIDCA,ZIL,1.0,7500,XAF,16,0,,,,,Unknown
+Implementation,2017,Republic of Congo,CA,,,Government,Eximbank,PEBC,1.0,161,USD,161,2,,15.0,5.0,20,National Telecom Phase III
+Implementation,2017,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,999,CNY,154,2,,15.0,5.0,20,Digital Television Migration
+Completed,2013,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,400,CNY,66,2,,,5.0,20,Mpila High School
+Completed,2012,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,28000,XAF,48,2,,,5.0,20,Mpila District in Brazzaville - Reconstruction of 200 Housing Units
+Completed,2006,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,63,USD,63,2,,,,,National Telecom Phase II
+Signed,2014,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,460,CNY,74,2,,,,,Fiber Optic Project
+Signed,2006,Republic of Congo,CA,,,Government,Eximbank,CL,1.0,100,USD,85,2,,,,,National Telecom Phase I
+Signed,2004,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Economic and Technology Cooperation
+Completed,2009,Cameroon,CA,,,Government,Eximbank,CL,1.0,190,CNY,28,2,,,5.5,20,Bafoussam Onmisports Stadium (Kouekong Stadium) Construction
+Completed,2009,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,61,USD,52,1,,,11.5,32,Optic Fiber Backbone Network (Construction of CTPhone)
+Completed,2010,Cameroon,CA,,,Government,Eximbank,CL,1.0,337,CNY,51,2,,16.0,4.0,20,Mekin Hydropower Project 15MW
+Completed,2010,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,14,USD,14,,,,,20,Engineering Machinery; Included in Rehabilitation Process of the State-owned Civil Engineering Equipment Pool (MATGENIE)
+Signed,2010,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Economic and Technical Cooperation Agreement
+Completed,2011,Cameroon,CA,,,Government,Eximbank,CL,1.0,433,CNY,69,2,,15.0,5.0,20,Electronic Postal Program
+Completed,2011,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,423,USD,423,2,,13.0,7.0,20,Kribi Port Project - Phase I
+Signed,2011,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,100,CNY,16,0,,,,,Economic and Technical Cooperation Agreement
+Completed,2011,Cameroon,CA,,,Government,Eximbank,CL,1.0,450,CNY,71,2,,15.0,5.0,20,Low Cost Social Housing (1500 Units)
+Implementation,2012,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,483,USD,483,2,,13.0,7.0,20,Yaoundé-Douala Highway - Phase I
+Implementation,2011,Cameroon,CA,,,Government,Eximbank,EBC,1.0,542,USD,542,,Libor 6 months + 310 bps,10.0,5.0,15,Memve'ele Hydropower Project 211 MW
+Implementation,2015,Cameroon,CA,,,Government,Eximbank,CL,1.0,513,CNY,79,2,,15.0,5.0,20,National Fiber-Optic Backbone Expansion
+Signed,2007,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,,,,Economic and Technology Cooperation
+Signed,2006,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Economic and Financial Agreement
+Completed,2016,Cameroon,CA,,,Government,Eximbank,CL,1.0,938,CNY,135,2,,15.0,5.0,20,E-National Higher Education Network
+Completed,2013,Cameroon,CA,,,Government,Eximbank,CL,1.0,430,CNY,71,2,,15.0,5.0,20,"MA60 Chinese Aircrafts Purchase, Two Units "
+Implementation,2009,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,97,USD,97,2,,15.0,5.0,20,Douala Water Supply Project - Phase II
+Implementation,2012,Cameroon,CA,,,Government,Eximbank,EBC,1.0,253,EUR,333,,Euribor 6 months + 300 bps,,2.0,11,Military Equipment to MINDEF
+Completed,2013,Cameroon,CA,,,Government,Eximbank,CL,1.0,1059,CNY,175,2,,15.0,5.0,20,"Potable Water Supply Projects in 9 Towns: Bafoussam, Bamenda, Kribi and Sangmelima - Phase I"
+Implementation,2013,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,156,USD,156,2,,15.0,5.0,20,Emergency Telecommunication Network
+Implementation,2012,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,168,USD,168,2,,15.0,5.0,20,National Telecom Broadband Network Project - Phase I
+Implementation,2015,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,337,USD,337,2,,15.0,5.0,20,National Broadband Telecommunication Network - Phase II (including South Atlantic Inter Link (SAIL) undersea cable and Zamengoe data center)
+Completed,2008,Cameroon,CA,,,Government,Eximbank,CL,1.0,11000,XAF,23,,,,,,Douala Water Supply Project Treatment Plant - Phase I
+Completed,2007,Cameroon,CA,,,Government,Eximbank,CL,1.0,350,CNY,48,2,,15.0,5.0,20,"300,000 CDMA Lines"
+Completed,2007,Cameroon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,7,0,,,,,Douala Gyneco-Obstetric and Pediatric Hospital
+Completed,2007,Cameroon,CA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Signed,2007,Cameroon,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Unknown
+Implementation,2017,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,525,USD,525,2,,,5.0,20,"Kribi Port Project - Phase II (EBC Part, total US$675million)"
+Implementation,2016,Cameroon,CA,,,Government,ICBC,CommL,1.0,303,USD,303,,,,,,"Warak Hydropower Project on Bini River, Adamaoua 75MW"
+Implementation,2017,Cameroon,CA,,,Government,Eximbank,CL,1.0,150,USD,150,2,,,5.0,20,"Kribi Port Project - Phase II (CL Part, total US$675million)"
+Implementation,2014,Cameroon,CA,,,Government,Eximbank,PEBC,1.0,386,USD,386,2,,15.0,5.0,20,"Kribi-Lolabe Highway, Kribi-Edéa Section - Phase I (100km)"
+Implementation,2015,Cameroon,CA,,,Government,Eximbank,EBC,1.0,678,USD,678,,Libor 6 months + 400 bps,11.0,4.0,15,Yaounde Potable Water Supply from Sanaga River (PAEPYS)
+Implementation,2018,Cameroon,CA,,,Government,Eximbank,CL,1.0,594,CNY,86,,,,,,"Potable Water Supply Projects in 9 Towns: Dschang, Yabassi, Maroua, Garoua, Garoua-Boulai - Phase II"
+Completed,2009,Cameroon,CA,,,Government,Eximbank,CL,1.0,280,CNY,41,2,,15.0,5.0,20,Bafoussam & Limbe Stadiums
+Implementation,2017,Cameroon,CA,,,Government,Eximbank,CommL,1.0,142,USD,142,,6M Libor + 3.2%,,3.0,15,"Memve'ele to Ebolowa Hydropower Transmission Lines , 225kV"
+Implementation,2017,Cameroon,CA,,,Government,BoC,CommL,1.0,123,USD,123,,,,2.0,10,"Photovoltaic System, Electrification of 350 Communities - Phase II (184 Communities)"
+Implementation,2018,Cameroon,CA,,,Government,BoC,CommL,1.0,42,USD,42,,,,,,National Extension of Intelligent Urban Video Surveillance System - Phase I
+Signed,2019,Cameroon,CA,,,Government,BoC,CommL,1.0,32710,XAF,56,,,,,,"Ebolowa-Kribi, 225 KV and Mbalmayo-Mekin, 90 KV Transmission Lines"
+Implementation,2016,Cameroon,CA,,,Government,Eximbank,Loan,1.0,38700,XAF,62,,,,,,Project for the Rehabilitation of the CRTV
+Signed,2013,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,70,CNY,12,,,,,,Various Projects (Loan 2013/01)
+Signed,2013,Cameroon,CA,,AfrGov,Government,CIDCA,ZIL,1.0,100,CNY,17,,,,,,Various Projects (Loan 2013/02)
+Implementation,2019,Cameroon,CA,,AfrGov,Government,BoC,CommL,1.0,42,USD,42,,,,,,National Extension of Intelligent Urban Video Surveillance System - Phase II
+Completed,2015,Cameroon,CA,,,Government,Eximbank,EBC,1.0,90,USD,90,,,,,,"Photovoltaic System, Electrification of 350 Communities - Phase I (166 Communities)"
+Completed,2010,Cameroon,CA,2.0,AfrStateCom,Cameroon Telecommunications (CAMTEL) (SOE),Eximbank,Loan,1.0,40,USD,32,,,,,,"350,000 CDMA Lines"
+Signed,2004,Gabon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Unknown
+Signed,2001,Gabon,CA,,,Government,CIDCA,ZIL,1.0,60,CNY,7,0,,,,,"Libreville, Omar Bongo Ondimba Palace Senate Building Construction "
+Signed,2005,Gabon,CA,,,Government,CIDCA,ZIL,1.0,23,CNY,3,0,,,,,"Libreville Friendship Hospital Construction, Franceville Friendship Hospital Repais, Liberville Chinese Medical Camp"
+Completed,2008,Gabon,CA,,,Government,Eximbank,CL,1.0,200000,XAF,318,,,,,,"Grand Poubara Hydropower Project 160MW, Phase I "
+Signed,2008,Gabon,CA,,,Government,CIDCA,ZIL,1.0,60,CNY,9,0,,,,,Unknown
+Completed,2011,Gabon,CA,,,Government,Eximbank,CL,1.0,850,CNY,135,2.5,,,,20,Libreville Power Grid Upgrade
+Signed,2011,Gabon,CA,,,Government,CIDCA,ZIL,1.0,7000,XAF,14,0,,,,,Unknown
+Implementation,2015,Gabon,CA,,,Government,ICBC,CommL,1.0,85,EUR,93,,,,1.5,10,Port Gentil Stadium
+Implementation,2016,Gabon,CA,,,Government,Eximbank,EBC,1.0,103,USD,103,,6M Libor + 3.2%,12.0,3.0,15,"Farasol Mbega-Port-Gentil Road, 22 km"
+Completed,2013,Gabon,CA,,,Government,Eximbank,CL,1.0,810,CNY,134,2,,,7.0,20,"Port Gentil-Omboue Road and Booue Bridge, 93km, CL Portion"
+Completed,2013,Gabon,CA,,,Government,Eximbank,CommL,,493,USD,493,,,,,,"Port Gentil-Omboue Road and Booue Bridge, 93km, CommL Portion"
+Implementation,2015,Gabon,CA,,,Government,ICBC,CommL,1.0,73,EUR,79,,,,1.5,10,Oyem Stadium
+Signed,2011,Gabon,CA,,,Government,CIDCA,ZIL,1.0,4000,XAF,8,0,,,,,Friendship Stadium Finishing Stages
+Implementation,2015,Gabon,CA,,,Government,Eximbank,CL,1.0,101,USD,101,2,,,5.0,15,Construction and Equipment for Three Professional Traning and Development Centers
+Signed,2000,Gabon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Unknown
+Signed,2004,Gabon,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Unknown
+Signed,2006,Gabon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Unknown
+Signed,2009,Gabon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,7,0,,,,,Unknown
+Signed,2010,Gabon,CA,,,Government,CIDCA,ZIL,1.0,70,CNY,11,0,,,,,Unknown
+Signed,2010,Gabon,CA,,,Government,CIDCA,ZIL,1.0,80,CNY,12,0,,,,,Unknown
+Signed,2010,Gabon,CA,,,Government,CIDCA,ZIL,1.0,80,CNY,12,0,,,,,Unknown
+Implementation,2014,Gabon,CA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,89,EUR,108,,,,,,"Gabonese Administration Network (RAG), Phase II"
+Signed,2015,Gabon,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,10.0,5.0,15,Unknown
+Signed,2003,Gabon,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,,,,,,Unknown
+Completed,2001,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,11,USD,11,0,,,,,"Niefang-Nkue Road, 34km"
+Completed,2002,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,Headquarters for the National Radio and Television Network (RTVGE) in Malabo
+Signed,2003,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,"Bata-Niefang Road Rehabilitation, 63.345km"
+Completed,2006,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,1.0,257,USD,257,5.5,,3.0,2.0,5,Djibloho Hydropower Project 120MW
+Implementation,2017,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,1.0,208,USD,208,,,,,,Oyala (Djibloho) New Capital: 10 Ministerial Buildings
+Implementation,2017,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,,261,USD,261,,,,,,"Micomeseng-Bonkoro Highway, 88.6 km"
+Completed,2013,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,1.0,201,USD,201,,,,,,Djibloho Regulation Reservoir
+Implementation,2017,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,1.0,175,USD,175,,,,,,Oyala (Djibloho) New Capital: 500 Units of Social Housing
+Implementation,2017,Equatorial Guinea,CA,,,Government,Eximbank,FA-sub,1.0,128,USD,128,,,,,,Oyala (Djibloho) New Capital: 1200 Units of Presidential Palace Administrative Districts
+Completed,2009,Equatorial Guinea,CA,,,Government,China Gezhouba Group Corporation (CGGC),SC,1.0,900,CNY,132,,,,,,Malabo Sewage Treatment Project
+Implementation,2012,Equatorial Guinea,CA,,,Government,Eximbank,Loan,1.0,330,USD,330,,,,,,National Institute of Sports
+Completed,2016,Equatorial Guinea,CA,,,Government,Eximbank,PEBC,1.0,290,USD,290,,,,,,"Bata City Power Grid, Phase II"
+Signed,2019,Equatorial Guinea,CA,,,Government,CDB,FA-sub,1.0,12,USD,12,,,,,,Akpoga Electricity Infrastructure
+Implementation,2019,Equatorial Guinea,CA,,,Government,CDB,FA-sub,1.0,83,USD,83,,,,,,High Voltage Electricity Network Extension and Maintenance
+Completed,2008,Equatorial Guinea,CA,,,Government,Eximbank,CL,1.0,201,USD,201,,,,,,"Malabo Power Grid, Phase 2"
+Completed,2007,Equatorial Guinea,CA,,,Government,Eximbank,PEBC,1.0,380,USD,380,,,,,,"Malabo, Bata, and Ruba: 4,800 Units of Social Housing"
+Signed,2004,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Interest-Free Loan
+Signed,2005,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Technical Cooperation Agreement
+Signed,2005,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,,,,Interest-Free Loan
+Signed,2007,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,"Bata, Design/Construction of a New Office Building for the Ministry of Foreign Affairs "
+Signed,2007,Equatorial Guinea,CA,,,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,,,,Technical Cooperation Agreement
+Completed,2010,Equatorial Guinea,CA,,,Government,Eximbank,PEBC,1.0,300,USD,300,,,,,,"Bata City Power Grid, Phase I"
+Completed,2007,Chad,CA,2.0,AfrStateCom,Société Nationale de Ciment du Tchad (SONACIM) (SOE),Eximbank,CL,1.0,700,CNY,96,,Libor+1.5,,5.0,,Baoare Cement Factory
+Completed,2011,Chad,CA,6.0,JV,"N'Djarmaya Refinery Company (Société de Raffinage de N’Djermaya) (CNPC 60%, Chad 40%)",Eximbank,PEBC,1.0,330,USD,330,,,,5.0,15,N'Djarmaya Oil Refinery
+Completed,2007,Chad,CA,,,Government,Eximbank,CL,1.0,25,USD,25,1.5,,,5.0,,CDMA 2000 Telecommunications Network in 27 Municipalities
+Completed,2012,Chad,CA,,,Government,Eximbank,PEBC,1.0,130,USD,130,,,,,,N'Djamena 90kV Ring Transmission Line & N'Djamena - Djarmaya Refinery 60kv Transmission Line
+Implementation,2019,Chad,CA,,,Government,Eximbank,CL,,110412,XAF,189,2,,,5.0,20,Modernization of National Information and Communication Technologies (NTIC)
+Signed,2008,Burundi,EA,,,Government,CIDCA,ZIL,1.0,15,CNY,2,0,,,,,Unknown
+Signed,2011,Burundi,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,16,0,,,,,Unknown
+Completed,2017,Burundi,EA,,,Government,Eximbank,CL,1.0,33,USD,33,2,,20.0,5.0,25,Digital Broadcasting Upgrade
+Completed,2017,Burundi,EA,2.0,AfrStateCom,Office National des Télécommunications du Burundi (ONATEL) (SOE),"Huawei Technologies Co., Ltd.",SC,1.0,30,USD,30,,,,,,ONAMOB Network Modernization
+Completed,2014,Burundi,EA,2.0,AfrStateCom,Office National des Télécommunications du Burundi (ONATEL) (SOE),Eximbank,CL,1.0,15,USD,15,,,,,,"Bujumbara Metropolitan Area Telecom Network, 220km of Optical Fibre"
+Signed,2009,Burundi,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,7,0,,,,,economic and technical cooperation
+Signed,2011,Burundi,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,16,0,,,,,Economic and Technical Cooperation
+Signed,2012,Burundi,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Economic and Technical Cooperation
+Completed,2003,Djibouti,EA,2.0,AfrStateCom,Djibouti Télécommunication Co (Djibouti Telecom) (SOE),Eximbank,CL,1.0,100,CNY,12,,,10.0,3.0,13,National Telecom Mobile Expansion
+Completed,2012,Djibouti,EA,,,Government,Eximbank,Loan,1.0,64,USD,64,,,,,,Goubet Salt Port
+Completed,2017,Djibouti,EA,6.0,JV,"Port of Djibouti S.A. (PDSA) (Dijbouti 76.5%, CMP 23.5%)",China Merchants Port Holdings Company Limited (CMPort),SC,1.0,150,USD,150,,,,,,Djibouti Free Trade Zone
+Completed,2013,Djibouti,EA,,,Government,Eximbank,CommL,1.0,492,USD,492,,Libor 6M+3,9.0,6.0,15,"Addis-Djibouti Railway (Djibouti share), 100km, Ali Sabieh to Nagad"
+Completed,2013,Djibouti,EA,,,Government,Eximbank,CL,1.0,322,USD,322,2,,12.0,7.0,20,Djibouti-Ethiopia Water Pipeline
+Completed,2016,Djibouti,EA,,,Government,Eximbank,PEBC,1.0,20,USD,20,,,,,,"90km Nagad-HollHoll-AliSabieh Power Line, 63 KV, Phase II "
+Signed,2011,Djibouti,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Economic and Technical Cooperation Agreement
+Implementation,2016,Djibouti,EA,,,Government,Eximbank,CL,1.0,344,USD,344,2,,13.0,7.0,20,"Doraleh Multipurpose Port, Damerjog Livestock Port"
+Completed,2010,Djibouti,EA,,,Government,CN Gov,Loan,1.0,6398,DFJ,36,,,,,,"Nagad-Doraleh Port Railway Ramp (Addis-Djibouti railway continuation), 15km"
+Signed,2000,Eritrea,EA,,,Government,CIDCA,ZIL,1.0,10,USD,10,0,,,,,"Asmara, Orotta Hospital Construction "
+Completed,2007,Eritrea,EA,,,Government,Eximbank,CL,1.0,353,CNY,48,,,,,,Gedem Cement Factory
+Signed,2006,Eritrea,EA,,,Government,Eximbank,CL,1.0,166,CNY,21,,,,,,"Asmara, CDMI Telecom Phase I"
+Signed,2010,Eritrea,EA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,Food Security Development
+Completed,2014,Eritrea,EA,,,Government,Eximbank,CL,1.0,100,USD,100,,,,,,Hirgigo Thermal Power Plant Upgrade 2X23MW (46MW)
+Completed,2011,Eritrea,EA,,,Government,Eximbank,EBC,1.0,100,USD,100,,,,,,"Machinery Supply for the Mining, Agriculture, Transport & Infrastructure Industries, Phase I"
+Completed,2012,Eritrea,EA,,,Government,Eximbank,EBC,1.0,62,USD,62,,,,,,"Machinery Supply for the Mining, Agriculture, Transport & Infrastructure Industries, Phase II"
+Completed,2015,Eritrea,EA,,,Government,Eximbank,EBC,1.0,96,USD,96,,,,,,"Machinery Supply for the Mining, Agriculture, Transport & Infrastructure Industries, Phase III"
+Completed,2012,Eritrea,EA,,,Government,Eximbank,CL,1.0,630,CNY,101,,,,,,"Agro-processing Projects - 3 Food Cold Storage Warehouses in 3 Cities, 1 Canning Factory, Drip-irrigation PVC Pipe Production Factory"
+Implementation,2018,Eritrea,EA,,AfrGov,Government,Eximbank,CL,1.0,87,USD,87,,,,,,"Adi-Guaedad to Habela Long Asphalt Road, 29km "
+Signed,2001,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,1,USD,1,0,,,,,Awassa Textile Plant Equipment Upgrade
+Completed,2006,Ethiopia,EA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,1900,USD,1900,,Libor 6M+1,,3.0,10,"Millenium Plan Telecom Project Phase I, II, III"
+Completed,2007,Ethiopia,EA,,,Government,Eximbank,EBC,1.0,91,USD,91,,,,,,"Tatek, Mugher Cement Enterprise Plant Expansion "
+Completed,2007,Ethiopia,EA,,,Government,Eximbank,EBC,1.0,116,USD,116,,,,,,"Finchaa-Amerti-Neshe (FAN) Hydropower Project, 97MW"
+Completed,2009,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,349,USD,349,2,,,7.0,20,"Addis-Adama Expressway Phase I, 80km"
+Completed,2009,Ethiopia,EA,,,Government,EximBank,EBC,1.0,270,USD,270,2.43,,9.0,3.0,12,Genale-Dawa III Hydropower Project 3x84.7(254MW)
+Signed,2010,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,30,CNY,5,0,,10.0,10.0,20,Unknown
+Completed,2011,Ethiopia,EA,,,Government,Eximbank,CL,1.0,441,CNY,70,2,,,7.0,20,"Meskere Sq-Bole Road, 4.3km"
+Completed,2010,Ethiopia,EA,,,Government,Eximbank,CL,1.0,99,USD,99,2,,,8.0,20,"Adama Wind Farm I, 51MW"
+Completed,2011,Ethiopia,EA,,,Government,Eximbank,CL,1.0,96,USD,96,2,,,8.0,21,Addis Ababa Deep Well Water Supply Project III
+Signed,2011,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,30,CNY,5,0,,,10.0,20,Unknown
+Completed,2010,Ethiopia,EA,,,Government,Eximbank,CL,1.0,172,CNY,26,,,,,,"Container/Vehicle Inspection Systems Project, 51 Machines"
+Completed,2011,Ethiopia,EA,,,Government,Eximbank,CommL,1.0,475,USD,475,,6M Libor+2.6,,3.0,10,"Addis-Ababa Light Rail, 17.35km"
+Signed,2012,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,16,0,,,10.0,20,Unknown
+Implementation,2012,Ethiopia,EA,3.0,AfrStateBanks,Development Bank of Ethiopia (DBE) (SOE),CDB,CommL,1.0,25,USD,25,,Libor 6M,7.0,3.0,10,SMEs
+Completed,2012,Ethiopia,EA,2.0,AfrStateCom,Ethiopia Sugar Corporation (ESC) (SOE),CDB,CommL,1.0,123,USD,123,,Libor 6M+2.6,7.0,3.0,10,Kessem Sugar Factory
+Signed,2012,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,13,USD,13,0,,,,,Unknown
+Completed,2011,Ethiopia,EA,2.0,AfrStateCom,Ethiopian Shipping Line Corporation (ESL) (SOE),Eximbank,EBC,1.0,235,USD,235,,,,,,Purchase of 9 Freight Ships
+Completed,2010,Ethiopia,EA,2.0,AfrStateCom,Ethiopian Electric Power Corporation (EEPCo) (SOE),ICBC,CommL,1.0,425,USD,425,3.067,,,4.0,11,Gibe III Hydropower Project 10x187(1870MW) (ICBC loan)
+Completed,2011,Ethiopia,EA,2.0,AfrStateCom,Ethiopian Electric Power Corporation (EEPCo) (SOE),Eximbank,CL,1.0,89,USD,89,2,,,8.0,21,Gibe III Hydropower Project 10x187(1870MW) (Eximbank loan)
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,CL,1.0,293,USD,293,2,,,8.0,20,Adama Wind Farm II 153MW
+Completed,2013,Ethiopia,EA,,,Government,State Grid Corporation of China (SGCC),SC,1.0,1003,USD,1003,3.08,,,3.0,15,"1400 km, Renaissance Dam to Addis Ababa Power Transmission Line and Distribution, 500kV"
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,CommL,1.0,220,USD,220,,Libor 6M+3,,6.0,15,"Addis-Djibouti Railway (Ethiopian share, total 2.49bn) 656km, Tranche A"
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,CommL,1.0,981,USD,981,,Libor 6M+3,,6.0,15,"Addis-Djibouti Railway (Ethiopian share, total 2.49bn) 656km, Tranche B"
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,CommL,1.0,1289,USD,1289,,Libor 6M+3,,6.0,15,"Addis-Djibouti Railway (Ethiopian share, total 2.49bn) 656km, Tranche C"
+Completed,2013,Ethiopia,EA,,,Government,"Huawei Technologies Co., Ltd.",SC,1.0,800,USD,800,,Libor 6M+3,,3.0,13,Telecom Transformation and Expansion 7 Circles - Huawei
+Completed,2013,Ethiopia,EA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,300,USD,300,,Libor 6M+3,,3.0,13,Telecom Transformation and Expansion 6 Circles - ZTE
+Completed,2013,Ethiopia,EA,2.0,AfrStateCom,Ethiopia Sugar Corporation (ESC) (SOE),CDB,CommL,1.0,290,USD,290,,Libor 6M+2.6,,3.0,13,"Omo-Kuraz Sugar Factory 2, South Omo Zone"
+Completed,2013,Ethiopia,EA,2.0,AfrStateCom,Ethiopia Sugar Corporation (ESC) (SOE),CDB,CommL,1.0,290,USD,290,,Libor 6M+2.6,,3.0,13,"Omo-Kuraz Sugar Factory 3, South Omo Zone"
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,143,USD,143,2,,,7.0,20,"Addis-Adama Expressway Phase II (Toll Montovay), 28km"
+Completed,2014,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,187,USD,187,2,,,7.0,20,"Dire Dawa-Dewalle Road, 220 km"
+Implementation,2014,Ethiopia,EA,2.0,AfrStateCom,Ethiopia Sugar Corporation (ESC) (SOE),Eximbank,CommL,1.0,500,USD,500,,Libor 6M+2.6,,2.0,12,"Welkait Sugar Mill, Tigray Region"
+Implementation,2014,Ethiopia,EA,,,Government,"Huawei Technologies Co., Ltd.",SC,1.0,34,USD,34,,Libor 6M+2.6,,2.0,12,Telecoms-Huawei-Electricity
+Implementation,2014,Ethiopia,EA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,28,USD,28,,Libor 6M+2.6,,2.0,12,Telecoms-ZTE-Electricity
+Implementation,2015,Ethiopia,EA,2.0,AfrStateCom,Ethiopia Sugar Corporation (ESC) (SOE),ICBC,CommL,1.0,550,USD,550,,,,,,"Omo-Kuraz Sugar Factory - 5, South Omo Zone"
+Signed,2014,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,150,CNY,24,0,,20.0,10.0,30,Framework Agreement
+Completed,2013,Ethiopia,EA,,,Government,Eximbank,CL,1.0,1450,CNY,239,2,,,7.0,20,Bole Airport Expansion
+Implementation,2017,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,219,USD,219,,,,,,"Aysha Wind Farm II, 120MW"
+Completed,2016,Ethiopia,EA,,,Government,Eximbank,Loan,1.0,117,USD,117,,,,,,Bole Airport Expansion Passenger Terminal - Additional Finance
+Completed,2016,Ethiopia,EA,,,Government,Eximbank,Loan,1.0,190,USD,190,,,,,,"Addis-Adama Expressway Phase II: Akaki-IT Park (Goro) Road, 14.5-km; Akaki-Lebu Road, 13.6-km"
+Completed,2011,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,188,USD,188,2,,,8.0,21,"Addis Ababa, 400km Transmission Lines and Substations, Gibe III Hydropower Project (total 612mn)"
+Implementation,2016,Ethiopia,EA,,,Government,Eximbank,Loan,1.0,103,USD,103,2.6,,,5.0,20,"Kality Ring Road Interchange-Tulu Dimtu Roundabout Project, 20.6km "
+Implementation,2017,Ethiopia,EA,,,Government,Eximbank,EBC,1.0,83,USD,83,,,,,,"28.4km Transmission Lines to Bole and Kilinto Industrial Zones in Addis Ababa, 230KV, Kilinto and Bole Lemi Power plant substations"
+Implementation,2017,Ethiopia,EA,,,Government,Eximbank,Loan,1.0,171,USD,171,,,,,,"Modjo-Hawassa Expressway, Arsi Negele-Hawassa Section, 52km"
+Implementation,2013,Ethiopia,EA,3.0,AfrStateBanks,Development Bank of Ethiopia (DBE) (SOE),CDB,Loan,1.0,25,USD,25,,,,,,SMEs
+Completed,2016,Ethiopia,EA,,,Government,Eximbank,Loan,1.0,249,USD,249,,,,,,"355km Genale Dawa III-Yirgalem II-Wolayita Sodo II-Hawassa II transmission lines and substation, 400KV"
+Completed,2015,Ethiopia,EA,2.0,AfrStateCom,Ethiopian Electric Power Corporation (EEPCo) (SOE),Eximbank,EBC,1.0,63,USD,63,,,,,,"Ethiopia-Djibouti Railway Transmission Line Power Supply, 750km "
+Implementation,2017,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,262,USD,262,,,,,,"Adama, Ethio-Hunan Equipment Production Cooperation Industrial Park "
+Implementation,2016,Ethiopia,EA,,,Government,Eximbank,CL,1.0,1145,CNY,165,2,,,7.0,20,Addis Ababa Power Network Rehabilitation and Upgrading Project
+Completed,2013,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,360,CNY,59,0,,,,,"Pushkin Square - Gottera Square/Bole Airport Road, 4.3km "
+Implementation,2018,Ethiopia,EA,,,Government,CIDCA,ZIL,1.0,540,CNY,79,,,,,,Mekelle Water Supply Project - ZIL Part
+Implementation,2018,Ethiopia,EA,,,Government,Eximbank,PEBC,1.0,1070,CNY,156,,,,,,Mekelle Water Supply Project - PEBC Part
+Completed,2007,Kenya,EA,,,Government,Eximbank,CL,1.0,317,CNY,43,2,,,8.0,21,National Optic Fibre Backbone Infrastructure (NOFBI) Phase I: E-government
+Implementation,2006,Kenya,EA,,,Government,Eximbank,CL,1.0,196,CNY,25,2,,,6.0,19,Rural Telecommunications Development Project
+Completed,2007,Kenya,EA,3.0,AfrStateBanks,Development Bank of Kenya,CDB,CommL,2.0,17,USD,17,,,,,15,"Great Wall Apartments Phase I, Lower and Medium Income Family Housing, 528 Apartment Units "
+Completed,2008,Kenya,EA,,,Government,Eximbank,PEBC,1.0,108,USD,108,2,,,7.0,15,"Nairobi Eastern and Northern Bypass Highway (Nairobi Ring Road), 72km"
+Completed,2009,Kenya,EA,,,Government,Eximbank,CL,1.0,1068,CNY,156,2,,,5.0,21,"Nairobi-Thika Highway, 50km"
+Completed,2010,Kenya,EA,,,Government,Eximbank,CL,1.0,670,CNY,102,2,,,0.0,19,"Olkaria IV Geothermal Drilling 140MW, 26 wells"
+Completed,2013,Kenya,EA,,,Government,Eximbank,CL,1.0,56,USD,56,2,,,,,Equipment for Phase II of Kenya's National Youth Service Project
+Completed,2011,Kenya,EA,,,Government,Eximbank,CL,1.0,775,CNY,123,2,,,7.0,13,Kenyatta University Teaching and Referral Hospital
+Completed,2012,Kenya,EA,,,Government,Eximbank,CL,1.0,383,USD,383,2,,,8.0,21,Drilling Materials for Olkaria Geothermal Wells
+Completed,2011,Kenya,EA,,,Government,Eximbank,PEBC,1.0,184,USD,184,2,,,7.0,19,Nairobi Southern Bypass
+Implementation,2012,Kenya,EA,,,Government,Eximbank,CL,1.0,460,CNY,74,2,,10.0,,,National Optic Fibre Backbone Infrastructure (NOFBI) E-Government Expansion Project
+Completed,2006,Kenya,EA,2.0,AfrStateCom,Kenya Electricity Transmission Company (KETRACO) (SOE),Eximbank,CL,1.0,161,CNY,21,2,,,6.0,19,"Kenyan Urban Power Grid Phase I - Chemositsit-Kisii-Meru, 2x132kV Substations, 183 km 132kV & 76km 33kV Power Transmission Lines"
+Completed,2009,Kenya,EA,,,Government,Eximbank,CL,1.0,637,CNY,93,2,,,7.0,20,Kenya Power Distribution System Modernization
+Implementation,2011,Kenya,EA,,,Government,Eximbank,CL,1.0,308,CNY,49,2,,,7.0,12,Enterprise Messaging and Collaboration System
+Signed,2010,Kenya,EA,,,Government,CN Gov,Loan,1.0,991,KES,12,,,,,,Renovation of Sports Center Kasarani
+Completed,2011,Kenya,EA,,,Government,Eximbank,CL,1.0,196,CNY,31,2,,,7.0,19,Rehabilitation And Upgrading Of Equipment In The Universities And Technical Training Institutes Project
+Completed,2010,Kenya,EA,2.0,AfrStateCom,Kenya Electricity Transmission Company (KETRACO) (SOE),Eximbank,Loan,1.0,93,USD,93,,,,,,"320km, Rabai-Malindi-Garsen-Lamu Transmission Line, 2x220kv+132kV(572kV)"
+Completed,2014,Kenya,EA,,,Government,Eximbank,CommL,1.0,2004,USD,2004,,Libor+360bps,10.0,5.0,15,"SGR Phase I - Mombasa to Nairobi 472.3km (CommL portion, total 3.6bn)"
+Completed,2014,Kenya,EA,,,Government,Eximbank,CL,1.0,660,CNY,106,2,,,7.0,20,Nairobi 132 KV & 66KV Network Upgrade and Reinforcement Project Phase II
+Implementation,2010,Kenya,EA,,,Government,CIDCA,ZIL,1.0,40,CNY,6,0,,,,,Economic and Technical Cooperation
+Completed,2015,Kenya,EA,,,Government,Eximbank,Loan,1.0,1483,USD,1483,,Libor + 3,15.0,,,"SGR Phase II Nairobi to Malaba - Sub-phase 1, Nairobi to Naivasha Section, 120.4km"
+Signed,2001,Kenya,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,5.0,10,"Kipsigak-Serem-Shamakhokho Road, 54km, Loan 2 "
+Signed,2002,Kenya,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,10.0,20,"Kipsigak-Serem-Shamakhokho Road, 54km, Loan 3"
+Signed,2007,Kenya,EA,,,Government,Eximbank,CL,1.0,39,CNY,5,2,,,8.0,21,Procurement of Power Lines Material Loan 1
+Implementation,2008,Kenya,EA,,,Government,Eximbank,CL,1.0,390,CNY,57,2,,,8.0,20,Procurement of Equipment for National Youth Service (NYS)
+Completed,2016,Kenya,EA,,,Government,Eximbank,CL,1.0,136,USD,136,2,,20.0,,,Garissa Solar Power Project 50MW
+Completed,2014,Kenya,EA,,,Government,Eximbank,CL,1.0,1600,USD,1600,2,,13.0,7.0,20,"SGR Phase I - Mombasa to Nairobi, 472.3km (CL portion, total 3.6bn)"
+Implementation,2016,Kenya,EA,,,Government,Eximbank,Loan,1.0,225,USD,225,2,,,,,"Kibwezi-Mutomo-Kitui-Migwani Road Upgrade, 472km, Phase I "
+Implementation,2016,Kenya,EA,,,Government,CDB,CommL,1.0,600,USD,600,,LIBOR 6mo + 495bps,,,7,151 Multisector Infrastructure Projects
+Implementation,2019,Kenya,EA,,,Government,Eximbank,Loan,1.0,17000,KES,168,,,,,,Konza Data Center and Smart City Facilities
+Completed,2017,Kenya,EA,,,Government,Eximbank,CL,1.0,440,CNY,68,,,,,,Kenya Nationwide Airborne Geophysical Survey
+Completed,2015,Kenya,EA,,,Government,CDB,CommL,1.0,27,USD,27,,Libor + 3,3.0,2.0,5,Magnetic Resonance Imaging Equipment Purchase - 20 Units
+Implementation,2017,Kenya,EA,,,Government,Eximbank,Loan,1.0,201,CNY,31,2,,10.0,,,Karimenu Dam Water Supply Project
+Implementation,2017,Kenya,EA,,,Government,CDB,CommL,1.0,67,USD,67,,Libor + 4.9,,,,Computed Tomography Scanners Supply to 37 Hospitals
+Implementation,2018,Kenya,EA,,,Government,Eximbank,CL,1.0,16500,KES,162,,,,,,"Nairobi Western Bypass Road Construction, 16.8km"
+Implementation,2019,Kenya,EA,2.0,AfrStateCom,Kenya Electricity Transmission Company (KETRACO) (SOE),Eximbank,Loan,1.0,677,CNY,97,,,,,,Kenya Power Transmission Expansion Project
+Implementation,2017,Kenya,EA,,,Government,Eximbank,CL,1.0,135,USD,135,2,,10.0,,,Technical And Vocational Training Laboratories Project (TVET) - Phase II
+Implementation,2017,Kenya,EA,2.0,AfrStateCom,Kenya Electricity Transmission Company (KETRACO) (SOE),Eximbank,Loan,1.0,584,CNY,90,,,,,,Garsen - Hola - Garrissa Transmission Line
+Implementation,2016,Kenya,EA,,,Government,Eximbank,CL,1.0,99,USD,99,2,,,,20,NOFBI Phase II Expansion Project
+Completed,2017,Kenya,EA,,,Government,Eximbank,CL,1.0,11893,KES,115,2,,12.0,,,Construction of Nairobi Inland Container Depot and Access Roads
+Signed,2011,Kenya,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,,,,,,Economic and Technical Cooperation
+Completed,2017,Kenya,EA,,,Government,Eximbank,CL,1.0,13200,KES,128,2,,,7.0,19,Nairobi City Center E.H.V and 66 KV Network Upgrade and Reinforecement Projec
+Completed,2004,Comoros,EA,,,Government,Eximbank,Loan,1.0,8,USD,8,,,,,,"Moroni, Prince Said Ibrahim International Airport "
+Completed,2010,Comoros,EA,,,Government,Eximbank,CL,1.0,32,USD,32,1,,,5.0,30,Telecommunications Infrastructure
+Signed,2018,Comoros,EA,,,Government,Eximbank,CL,1.0,567,CNY,82,,,,,,Network Modernization Project
+Completed,2007,Madagascar,EA,,,Government,Eximbank,CL,1.0,385,CNY,53,2,,13.0,8.0,21,"Antananarivo, The Golden Peacock Five-Star Hotel"
+Implementation,2017,Madagascar,EA,,,Government,Eximbank,PEBC,1.0,105,USD,105,2,,13.0,7.0,20,"Ivato Airport - Antananarivo Boulevard de l'Europe Expressway, 18.7km"
+Completed,2018,Madagascar,EA,,,Government,Eximbank,CL,1.0,41,USD,41,2,,13.0,7.0,20,Ivato-Tsarasoatra Road Rehabilitation 11km; Boulevard de l'Europe in Village de la Francophonie Rehabilitation
+Signed,2008,Madagascar,EA,,,Government,CN Gov,Loan,1.0,28,CNY,4,,,,,,Multisectoral Projects
+Implementation,2019,Madagascar,EA,,,Government,Eximbank,CL,1.0,1090,CNY,157,,,,,,"Rehabilitation of National Road RN5A Ambilobe-Vohemar, 150km"
+Implementation,2018,Madagascar,EA,,,Government,Eximbank,PEBC,1.0,408,CNY,59,1.5,,25.0,5.0,30,"Expressway connecting the Port of Toamasina and the RN2, 10km"
+Signed,2000,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,10.0,20,"Quatre-Bornes, New Market "
+Completed,2000,Mauritius,EA,,,Government,Eximbank,CL,1.0,150,CNY,18,3,,,,,Plaines Wilhems Sewage Project Phase I
+Completed,2001,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,11.0,21,New Mauritius Broadcasting Corporation (MBC) Headquarters-Tranche 1
+Signed,2001,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,10.0,20,Construction Project
+Signed,2002,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,10.0,20,Economic Assistance Loan - Container Inspection Equipment
+Completed,2002,Mauritius,EA,,,Government,Eximbank,CL,1.0,100,CNY,12,4,,8.0,4.0,12,Low-cost Housing Construction - 1500 Units
+Completed,2003,Mauritius,EA,,,Government,Eximbank,CL,1.0,260,CNY,31,3,,10.0,10.0,20,Plaines Wilhems Sewage Project Phase II
+Signed,2003,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,10.0,20,Economic Assistance Loan - X-Ray Scanning Equipment and CCTV Surveillance System
+Completed,2004,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,11.0,21,New Mauritius Broadcasting Corporation (MBC) Headquarters-Tranche 2
+Completed,2005,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,10.0,11.0,21,New Mauritius Broadcasting Corporation (MBC) Headquarters-Tranche 3
+Completed,2006,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,10.0,11.0,21,"New Mauritius Broadcasting Corporation (MBC) Headquarters-Tranche 4, Including Radio and TV Broadcast Equipment Procurement"
+Completed,2006,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,13,0,,10.0,11.0,21,New Mauritius Broadcasting Corporation (MBC) Headquarters-Tranche 5
+Completed,2009,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,40,CNY,6,0,,10.0,6.0,16,Victoria Hospital New Operation Theatre - Loan 1
+Completed,2009,Mauritius,EA,2.0,AfrStateCom,Airports of Mauritius Co Ltd (AML) (SOE),Eximbank,PEBC,1.0,260,USD,260,2,,,,,Sir Seewoosagur Ramgoolam International Airport (SSR) Upgrade - Passenger Terminal
+Completed,2011,Mauritius,EA,,,Government,Eximbank,CL,1.0,580,CNY,92,2,,10.0,10.0,20,Bagatelle Dam
+Signed,2016,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,250,MUR,7,0,,,,,Unknown
+Completed,2011,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,Economic and Trade cooperation
+Completed,2013,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Development Projects
+Completed,2014,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,257,MUR,8,0,,,,,Economic and Technical cooperation
+Signed,2015,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,250,MUR,7,0,,,,,Economic and Technical cooperation
+Completed,2017,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,700,MUR,21,0,,10.0,,,Côted’Or National Sports Complex in Saint Pierre
+Completed,2009,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,29,CNY,4,0,,10.0,7.0,17,Victoria Hospital New Operation Theatre - Loan 2
+Signed,2009,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,72,CNY,10,0,,10.0,7.0,17,CCTV Surveillance System
+Implementation,2018,Mauritius,EA,6.0,JV,Mauritius Telecom (MT) (Mauritius 33%),Eximbank,PEBC,1.0,2567,MUR,75,2,,,,20,Safe City Project
+Signed,2005,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,10.0,,,Economic and Trade cooperation
+Signed,2006,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,40,CNY,5,0,,10.0,,,Economic and Trade cooperation
+Signed,2007,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,10.0,,,Economic and Trade cooperation
+Signed,2008,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,10.0,,,Economic and Trade cooperation
+Signed,2010,Mauritius,EA,,,Government,CIDCA,ZIL,1.0,40,CNY,6,0,,10.0,,,Economic and Trade cooperation
+Completed,2009,Malawi,EA,,,Government,Eximbank,CL,1.0,630,CNY,92,2,,15.0,5.0,20,"Bingu International Conference Center, The Presidential Hotel and Presidential Villas"
+Completed,2011,Malawi,EA,,,Government,Eximbank,CL,1.0,79,USD,79,,,,5.0,20,"Thyolo, Malawi Science and Technology University "
+Completed,2012,Malawi,EA,,,Government,Eximbank,CL,1.0,70,USD,70,2,,,7.0,20,Bingu National Stadium (formerly Joyce Banda National Stadium)
+Implementation,2016,Malawi,EA,2.0,AfrStateCom,Electricity Supply Corporation of Malawi Limited (ESCOM) (SOE),Eximbank,CL,1.0,23,USD,23,2,,,5.0,15,National Fiber Backbone
+Completed,2001,Mozambique,EA,,,Government,CIDCA,ZIL,1.0,93,CNY,11,0,,,,,Foreign Ministry Office Building
+Completed,2007,Mozambique,EA,,,Government,Eximbank,CL,1.0,50,USD,50,,,,,,"Maputo International Airport Renovation Phase I (CL part, total 117mn)"
+Completed,2008,Mozambique,EA,,,Government,CIDCA,ZIL,1.0,70,USD,70,0,,,,,Zimpeto National Stadium in Maputo
+Completed,2009,Mozambique,EA,,,Government,Eximbank,FA-sub,1.0,30,USD,30,,,,,,"Agro-processing Centers in Manica (cotton), Tete (cornmeal), Zambeze (rice)"
+Completed,2009,Mozambique,EA,,,Government,Eximbank,FA-sub,1.0,20,USD,20,,,,,,Agricultural Machineries
+Completed,2009,Mozambique,EA,,,Government,Eximbank,CommL,1.0,67,USD,67,,,,,,"Maputo International Airport Renovation Phase I (CommL part, total 117mn)"
+Completed,2011,Mozambique,EA,,,Government,Eximbank,CL,1.0,40,USD,40,,,,,,Mozambique Chief Prosecutor Attorney General's Office
+Completed,2012,Mozambique,EA,,,Government,Eximbank,Loan,1.0,300,USD,300,,,,,,"Maputo Ring Road, 74km"
+Completed,2012,Mozambique,EA,,,Government,Eximbank,Loan,1.0,682,USD,682,4,,15.0,5.0,20,"Maputo-Catembe Bridge, Katembe Bridge/Ponta D'Ouro Road, 3km "
+Completed,2010,Mozambique,EA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0,,,,,Unknown
+Completed,2012,Mozambique,EA,,,Government,Eximbank,Loan,1.0,60,USD,60,,,,,,Chokwe Agro-Processing Complex
+Signed,2012,Mozambique,EA,,,Government,CIDCA,ZIL,1.0,9,USD,9,0,,,,,Economic and Technical Cooperation
+Completed,2013,Mozambique,EA,,,Government,Eximbank,CL,1.0,104,USD,104,,,,,,"Beira to Machipanda EN6 Road Repair, 287km, Loan 1"
+Completed,2017,Mozambique,EA,,,Government,Eximbank,Loan,1.0,156,USD,156,2,,13.0,7.0,20,Digital Migration
+Completed,2014,Mozambique,EA,,,Government,Eximbank,Loan,1.0,120,USD,120,,,,,,Beira Fishing Port Rehabilitation
+Completed,2012,Mozambique,EA,,,Government,Eximbank,CL,1.0,135,USD,135,,,,,,Maluana Data Center
+Completed,2013,Mozambique,EA,,,Government,Eximbank,CL,1.0,72,USD,72,1.5,,13.0,7.0,20,Mozambique Presidential Palace
+Completed,2014,Mozambique,EA,,,Government,Eximbank,Loan,1.0,312,USD,312,,,,,,"Beira to Machipanda EN6 Road Repair, 287km, Loan 2"
+Signed,2010,Mozambique,EA,,,Government,Eximbank,Loan,1.0,21,USD,21,,,,,,Coverage for District Landline Telephone Headquarters
+Completed,2009,Rwanda,EA,,,Government,Eximbank,CL,1.0,36,USD,36,,,,,,"Kigali Urban Road Upgrade Project, 36km (2009 project)"
+Signed,2010,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,Unknown
+Signed,2011,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,13,USD,13,0,,,,,Unknown
+Signed,2011,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,5,Unknown
+Completed,2012,Rwanda,EA,,,Government,Eximbank,CL,1.0,113,USD,113,1.5,,,7.0,20,"Kivu Belt Lot 4&5; Mwityazo-Ruvumbu-Karongi Road Project, 66km"
+Signed,2012,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,9,USD,9,0,,,,10,Economic and Technical Cooperation Agreement
+Signed,2012,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,120,CNY,19,0,,,,,Economic and Technical Cooperation Agreement
+Completed,2003,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,2000,RWF,4,0,,,,,Unknown
+Signed,2005,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0,,,,,Rwandan State House
+Signed,2014,Rwanda,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Economic and Technical Cooperation Agreement
+Completed,2016,Rwanda,EA,,,Government,Eximbank,Loan,1.0,58200,RWF,71,,,,,,"Kigali Urban Road Upgrade Project, 54km"
+Implementation,2018,Rwanda,EA,,,Government,Eximbank,CL,1.0,97,usd,76,,,,,,"Huye – Kibeho - Munini Road Upgrade Project, 66km"
+Implementation,2018,Rwanda,EA,,,Government,Eximbank,CL,1.0,50,usd,50,,,,,,"Bugesera International Airport Access Road Project, 13.8km (SONATUBES-GAHANGA-AKAGERA ROAD)"
+Signed,2007,Seychelles,EA,,,Government,Eximbank,Loan,1.0,6,SCR,1,,,,,,Mahe Island Sewer & Water System
+Completed,2007,Seychelles,EA,,,Government,Eximbank,CL,1.0,100,CNY,14,,,,,,Les Mamelles Housing Project Phase I - 203 Units
+Completed,2007,Seychelles,EA,,,Government,Eximbank,CL,1.0,50,CNY,7,,,,,,East Coast Housing Phase II - 160 Units
+Completed,2008,Seychelles,EA,,,Government,Eximbank,CL,1.0,11,USD,11,,,,,,Y-12E Utility Aircraft Purchase - 2 units
+Completed,2005,Seychelles,EA,,,Government,Eximbank,CL,1.0,1,USD,1,2,,,,,Brilliant Housing - 44 Units
+Completed,2005,Seychelles,EA,,,Government,Eximbank,CL,1.0,1,USD,1,2,,,,,Baie Lazare Primary School and Creche Projects
+Completed,2014,South Sudan,EA,,,Government,Eximbank,CL,1.0,158,USD,158,2,,,5.0,20,Juba International Airport
+Implementation,2018,South Sudan,EA,,,Government,Eximbank,CL,1.0,249,USD,249,,,,,,Air Traffic Management System
+Completed,2013,Tanzania,EA,,,Government,Eximbank,CL,1.0,94,USD,94,,,,,,"National ICT Backbone Project (NICTBB), 1st stage of Phase III"
+Completed,2008,Tanzania,EA,,,Government,Eximbank,CL,1.0,525,CNY,77,,,,,,National ICT Backbone Project (NICTBB) Phase I
+Implementation,2010,Tanzania,EA,,,Government,Eximbank,CL,1.0,481,CNY,73,,,,,,Zanzibar Airport Terminal 2
+Completed,2010,Tanzania,EA,,,Government,Eximbank,CL,1.0,700,CNY,106,,,,,,National ICT Backbone Project (NICTBB) Phase II
+Signed,2012,Tanzania,EA,,,Government,CIDCA,ZIL,1.0,15,USD,15,0,,,,,Mwalimu Julius Nyerere Convention Centre
+Completed,2012,Tanzania,EA,,,Government,Eximbank,PEBC,1.0,920,USD,920,2,,13.0,7.0,20,"Tanzania Petroleum Development Corporation (TPDC) Natural Gas Processing Plants and Pipeline, PEBC part (Mnazi Bay to Dar es Salaam - Mtwara Province Gas Pipeline, 432km)"
+Completed,2012,Tanzania,EA,,,Government,Eximbank,EBC,1.0,275,USD,275,,6m libor + 4.3%,11.0,2.0,13,"Tanzania Petroleum Development Corporation (TPDC) Natural Gas Processing Plants and Pipeline, EBC part (Mnazi Bay to Dar es Salaam - Mtwara Province Gas Pipeline, 432km)"
+Completed,2002,Tanzania,EA,,,Government,CIDCA,ZIL,1.0,4000,TZS,4,0,,,,,Dodoma Water Project
+Completed,2013,Tanzania,EA,,,Government,Eximbank,CL,1.0,285,USD,285,,,,,,Military Residential House
+Completed,2015,Tanzania,EA,,,Government,CDB,Loan,1.0,200,USD,200,,,,,,Bolster Foreign Exchange Reserves
+Signed,2011,Tanzania,EA,,,Government,CIDCA,ZIL,1.0,15,USD,15,0,,,,,Unknown
+Signed,2006,Tanzania,EA,,,Government,CIDCA,ZIL,1.0,80,CNY,10,0,,,,,Unknown
+Signed,2009,Uganda,EA,,,Government,Eximbank,CL,1.0,70,CNY,10,2,,15.0,5.0,20,KCC Road Unit and Sanitary Equipment
+Completed,2011,Uganda,EA,,,Government,Eximbank,CL,1.0,631,CNY,100,2,,15.0,5.0,20,Equipment Supply to Local Govts
+Completed,2009,Uganda,EA,,,Government,Eximbank,CL,1.0,406,CNY,59,2,,15.0,5.0,20,National Backbone Data Transmission Project II
+Completed,2011,Uganda,EA,,,Government,Eximbank,PEBC,1.0,350,USD,350,2,,13.0,7.0,20,"Kampala-Entebbe Express Highway, 51km "
+Signed,2012,Uganda,EA,,,Government,CIDCA,ZIL,1.0,26000,UGX,10,0,,,,10,Unknown
+Implementation,2015,Uganda,EA,,,Government,Eximbank,PEBC,1.0,789,USD,789,2,,15.0,5.0,20,"PEBC part- Karuma Hydropower Project 600MW; 400kV Karuma-Kawanda & 400kV Karuma-Olwiyo & 80km Karuma-Lira Transmission Lines, 132kV; 6 Substations 400kV "
+Implementation,2015,Uganda,EA,,,Government,Eximbank,EBC,1.0,646,USD,646,,Libor+3.5%,10.0,5.0,15,"EBC part- Karuma Hydropower Project 600MW; 400kV Karuma-Kawanda & 400kV Karuma-Olwiyo & 80km Karuma-Lira Transmission Lines, 132kV; 6 Substations 400kV"
+Completed,2014,Uganda,EA,,,Government,Eximbank,PEBC,1.0,483,USD,483,2,,,5.0,20,Isimba Hydropower Project 183MW
+Completed,2007,Uganda,EA,,,Government,Eximbank,CL,1.0,223,CNY,31,2,,15.0,5.0,20,National Backbone Data Transmission Project I
+Signed,2010,Uganda,EA,,,Government,Eximbank,CL,1.0,96,CNY,15,2,,,,,National Backbone Data Transmission Project III
+Completed,2001,Uganda,EA,,,Government,CIDCA,ZIL,1.0,40,USD,40,0,,,,,Food Research Facility in Kampala
+Signed,2011,Uganda,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,16,0,,,,,Unknown
+Signed,2008,Uganda,EA,,,Government,CIDCA,ZIL,1.0,5,USD,5,0,,,,,Security Communications System
+Implementation,2015,Uganda,EA,,,Government,Eximbank,CL,1.0,1260,CNY,194,2,,,,,Entebbe Airport Expansion Phase I
+Completed,2016,Uganda,EA,,,Government,Eximbank,EBC,1.0,100,USD,85,,LIBOR 6M + 3%,12.0,3.0,15,"Electrical Substations in Luzira, Namanve, Mukono and Iganga Industrial Parks"
+Implementation,2019,Uganda,EA,,,Government,Eximbank,CL,1.0,213,USD,213,2,,15.0,5.0,20,Bridging the Demand-Supply Gap through Accelerated Rural Electrification Programme (BDSGAREP)
+Signed,2019,Uganda,EA,,,Government,Eximbank,Loan,1.0,85,USD,85,,6M libor+3.0%,,4.0,15,"National Science, Technology and Engineering Skills Development Project"
+Completed,2002,Zambia,EA,,,Government,CIDCA,ZIL,1.0,8,USD,8,0,,,,,Kamwala Government Complex in Lusaka Completion
+Completed,2005,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),CITIC,CommL,1.0,8,USD,8,,,,,,Optic Fibre Cable Phase I
+Completed,2006,Zambia,EA,,,Government,Eximbank,Loan,1.0,56,USD,56,,,,,,"Xian MA-60 Airliners Aircrafts Purchase - 2 Units, Harbin Y-12 Cargo Planes Purchase - 12 Units"
+Signed,2006,Zambia,EA,,,Government,CIDCA,ZIL,1.0,7,USD,7,0,,,,,TAZARA protocol 2006 - Unknown
+Signed,2006,Zambia,EA,,,Government,CIDCA,ZIL,1.0,5,USD,5,0,,,,,TAZARA Equipment and Machinery
+Completed,2007,Zambia,EA,,,Government,Eximbank,Loan,1.0,40,USD,40,,,,,,Procurement of Earth-moving Equipment for Road Rehabilitation
+Completed,2008,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),Eximbank,Loan,1.0,316,USD,316,,LIBOR+2%,,,15,Kariba North Bank Extension Hydropower Project 360 MW
+Completed,2009,Zambia,EA,,,Government,Eximbank,Loan,1.0,25,USD,25,2,,10.0,5.0,15,Kamwala Government Complex Building Interior Construction Project
+Completed,2009,Zambia,EA,,,Government,Eximbank,CL,1.0,46,USD,46,2,,15.0,5.0,15,Non-intrusive Container Scanning Equipment
+Completed,2009,Zambia,EA,,,Government,Eximbank,CL,1.0,12,USD,12,2,,15.0,5.0,15,Food Reserve Agency (FRA) Storage Sheds
+Completed,2009,Zambia,EA,,,Government,CIDCA,ZIL,1.0,68,USD,68,0,,,,,Levy Mwanawasa Stadium in Ndola
+Completed,2009,Zambia,EA,,,Government,CIDCA,ZIL,1.0,19,USD,19,0,,5.0,10.0,15,TAZARA Protocol - 2009 Recapitalization
+Completed,2009,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),"China Nonferrous Metal Mining (Group) Co., Ltd. (CNMC) Industrial Zone Development",SC,1.0,28,USD,11,0,,,,15,Chambishi East 330KV/66KV Substation
+Completed,2010,Zambia,EA,,,Government,Eximbank,PEBC,1.0,366,USD,366,,,,5.0,20,Military Residential Housing Unit (MOD) Project - 4527 units in 3 Provinces
+Completed,2010,Zambia,EA,,,Government,Eximbank,Loan,1.0,105,USD,105,,,,,,"Military Equipment for the ""Transport (Disaster Management)” Project"
+Completed,2010,Zambia,EA,,,Government,Eximbank,CL,1.0,86,USD,86,,,10.0,10.0,20,Lusaka National Stadium
+Completed,2010,Zambia,EA,,,Government,Eximbank,Loan,1.0,47,USD,47,,,,,,Mobile Hospital Project
+Completed,2010,Zambia,EA,,,Government,CIDCA,ZIL,1.0,39,USD,39,0,,,,,TAZARA 14th Protocol - Engine and Wagon Purchase
+Completed,2010,Zambia,EA,,,Government,Eximbank,CL,1.0,8,USD,8,,,,,,Independence Stadium Western Grandstand Rehabilitation
+Completed,2011,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),BoC,CommL,1.0,48,USD,48,,LIBOR+3%,8.0,2.0,10,Optic Fibre Cable Phase II
+Completed,2011,Zambia,EA,,,Government,Eximbank,PEBC,1.0,244,USD,244,,,,,,"Mongu-Tapo Section, Mongu Kalabo Road, 34km "
+Completed,2011,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),ICBC,EBC,1.0,285,USD,285,,LIBOR+2.5%,10.0,5.0,15,"685km, Pensulo to Kasama and Pensulo to Chipata Transmission Lines, 330 kV"
+Completed,2012,Zambia,EA,,,Government,CIDCA,ZIL,1.0,43,USD,43,0,,,,,TAZARA 15th Protocol - Purchase of Locomotives
+Completed,2012,Zambia,EA,,,Government,China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,67,USD,67,,,,,,Purchase of 8 Hongdu K-8P Fighter Jet Trainers
+Implementation,2013,Zambia,EA,,,Government,Eximbank,Loan,1.0,183,USD,183,,,,,,Lusiwasi Hydropower Expansion Project & Lunzua Hydropower Rehabilitation Project 86MW
+Completed,2013,Zambia,EA,,,Government,CDB,Loan,1.0,176,USD,176,,,,,,"Mansa to Luwingu Road, 175km"
+Completed,2013,Zambia,EA,,,Government,Eximbank,CL,1.0,196,USD,196,,,,,,"Mbala to Nakonde Road, 172km "
+Completed,2013,Zambia,EA,,,Government,Eximbank,EBC,1.0,296,USD,296,,,,,,"Lusaka Urban Road (L400) Upgrade, 400km Phase I "
+Completed,2014,Zambia,EA,,,Government,Eximbank,CL,1.0,45,USD,45,2,,13.0,7.0,20,"120km Kariba North - Kafue West Transmission Line, 330kV"
+Implementation,2014,Zambia,EA,,,Government,Eximbank,CL,1.0,360,USD,360,2,,10.0,5.0,15,Lusaka International Airport (Kenneth Kaunda International Airport) Expansion
+Completed,2014,Zambia,EA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,103,USD,103,,,,,,ZTE Take-over of Libya Lap Green's loans to Zamtel
+Completed,2015,Zambia,EA,,,Government,Eximbank,Loan,1.0,66,USD,66,,,,,,Smart Zambia National ICT Development Project Phase I
+Signed,2015,Zambia,EA,,,Government,CIDCA,ZIL,1.0,22,USD,22,0,,,,,TAZARA
+Implementation,2015,Zambia,EA,3.0,AfrStateBanks,Development Bank of Zambia (DBZ),CDB,CommL,1.0,30,USD,30,5.5,,,,,SMEs
+Completed,2015,Zambia,EA,,,Government,Eximbank,PEBC,1.0,232,USD,232,,,20.0,5.0,25,Digital Migration Phase II and III - Eximbank Portion
+Implementation,2015,Zambia,EA,,,Government,Poly Technologies Inc.,SC,1.0,164,USD,164,,,,,,"Security Equipment for Police, the Immigration Department, Prisons and the Drug Enforcement Commission"
+Completed,2015,Zambia,EA,,,Government,Aviation Industry Corporation of China (AVIC),SC,1.0,50,USD,50,,,,,,"Earth-moving Machinery for Road Repairs/Contruction Purchase, Phase II"
+Completed,2015,Zambia,EA,,,Government,China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,211,USD,211,,,,,,Purchase of 6 Hongdu L-15 Trainer Jets
+Completed,2015,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),Sinohydro Ltd.,SC,1.0,10,USD,10,7,,,,2,Musonda Falls upgrade bridge loan 1
+Completed,2016,Zambia,EA,,,Government,CDB,CommL,1.0,30,USD,30,,LIBOR 6M + 4.5%,7.0,3.0,10,"Mansa to Luwingu Road, 175km Additional Loan"
+Completed,2016,Zambia,EA,,,Government,ICBC,CommL,1.0,275,USD,275,,,,,,Police and Security Force Housing - 2350 Units
+Implementation,2016,Zambia,EA,,,Government,Eximbank,PEBC,1.0,338,USD,338,,,,,,"Ndola International Airport Phase I, Greenfield Project"
+Implementation,2016,Zambia,EA,,,Government,CDB,Loan,1.0,179,USD,179,,,,,,Public Security Network III
+Completed,2016,Zambia,EA,,,Government,CDB,CommL,1.0,170,USD,170,,LIBOR + 3.5%,,,12,Solar-powered Milling Plant
+Implementation,2016,Zambia,EA,,,Government,Eximbank,Loan,1.0,128,USD,128,,,,,,Lusaka-Kafue Bulk Water Supply
+Completed,2016,Zambia,EA,,,Government,Eximbank,Loan,1.0,313,USD,313,,,,,,Lusaka Urban Road Rehabilitation Phase II (L400 Phase II)
+Completed,2016,Zambia,EA,,,Government,ICBC,CommL,1.0,136,USD,136,,,,,,Chinsali General Hospital Project
+Implementation,2016,Zambia,EA,,,Government,ICBC,CommL,1.0,170,USD,170,,,,,,Nkana Water and Sanitation
+Implementation,2016,Zambia,EA,,,Government,Poly Technologies Inc.,SC,1.0,50,USD,50,,,,,,"Ndola City Roads Construction and Upgrade, 42.9km "
+Implementation,2016,Zambia,EA,,,Government,BoC,CommL,1.0,332,USD,332,,,,,15,Kafulafuta Reservoir Dam Water Supply Project
+Completed,2016,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),Sinohydro Ltd.,SC,1.0,29,USD,29,7,,,,,"Musonda Falls Upgrade Bridge, Loan 2"
+Implementation,2016,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),ICBC,CommL,1.0,30,USD,30,,LIBOR + 3.35%,12.0,3.0,18,Mpika Power Supply
+Implementation,2017,Zambia,EA,2.0,AfrStateCom,"Kafue Gorge Lower Power Development (KGL) (SPV, Zambia 100%)","MixedCN: Export-Import Bank of China (Eximbank), Industrial and Commercial Bank of China Ltd. (ICBC)",Loan,1.0,1530,USD,1530,,,,,,"Kafue Gorge Lower Hydropower Project, 750MW "
+Implementation,2017,Zambia,EA,,,Government,Eximbank,Loan,1.0,281,USD,281,,,,,,Communication Towers Project Phase II (Smart Zambia/Zambia ICT Project Phase II)
+Implementation,2017,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),Eximbank,PEBC,1.0,114,USD,114,,LIBOR + 3%,12.0,3.0,15,"300km Kabwe - Pensulo Second Transmission Line, 330kV "
+Completed,2017,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),ICBC,CommL,1.0,35,USD,35,,LIBOR + 3.35%,12.0,3.0,15,"Luapula, Musonda Falls Hydropower Plant Rehabilitation and Upgrading, 10MW"
+Implementation,2017,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),ICBC,CommL,1.0,37,USD,37,,LIBOR + 3.35%,12.0,3.0,15,Connection of Lundazi and Chama to the National Grid
+Completed,2017,Zambia,EA,,AfrGov,Government,StarTimes Group (StarTimes),SC,1.0,41,USD,41,,,,,,Digital Migration Phase II and III - StarTimes Portion
+Implementation,2017,Zambia,EA,,AfrGov,Government,ICBC,CommL,1.0,60,USD,60,,,,,,"Ndola International Airport, 15%"
+Implementation,2018,Zambia,EA,,,Government,Eximbank,Loan,1.0,197,USD,197,,,,,,"Kitwe, Chingola, and Mufulira, Copperbelt Province Urban Road Lot 1, 152km"
+Implementation,2018,Zambia,EA,,,Government,Eximbank,Loan,1.0,205,USD,205,,,,,,"Lusaka Urban Roads (L400) Upgrade, 400km, Phase III, Eximbank part"
+Implementation,2018,Zambia,EA,,,Government,BoC,CommL,1.0,36,USD,36,,,,,,"Lusaka Urban Road (L400) Upgrade, 400km, Phase III, BoC part"
+Signed,2018,Zambia,EA,,AfrGov,Government,Eximbank,Loan,1.0,171,USD,171,,,,,,Defense Project
+Signed,2018,Zambia,EA,,AfrGov,Government,Eximbank,Loan,1.0,30,USD,30,,,,,,Defense Project
+Implementation,2018,Zambia,EA,,AfrGov,Government,Eximbank,Loan,1.0,121,USD,121,,,,,,"Kawambwa to Mporokoso (D019) Road Upgrade, 122km"
+Signed,2018,Zambia,EA,,AfrGov,Government,ICBC,CommL,1.0,210,USD,210,,,,,,Defense Project
+Signed,2018,Zambia,EA,,AfrGov,Government,ICBC,CommL,1.0,191,USD,191,,,,,,FTJ Chiluba University Construction in Mansa
+Signed,2019,Zambia,EA,,AfrGov,Government,BoC,CommL,1.0,30,USD,30,,,,,,Defense Project
+Implementation,2019,Zambia,EA,,AfrGov,Government,"Other CN Financing: Jiangxi Bank Co., Ltd.",Loan,1.0,187,USD,187,,,,,,Chalala Barracks
+Signed,2001,Zambia,EA,,,Government,Eximbank,CL,1.0,100,CNY,12,,,,,,Unknow purpose Concessional Loan
+Signed,2001,Zambia,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Special Train Loan - TAZARA
+Signed,2002,Zambia,EA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Special Train Loan - TAZARA
+Signed,2004,Zambia,EA,,,Government,CIDCA,ZIL,1.0,90,CNY,11,0,,,,,TAZARA
+Signed,2006,Zambia,EA,,,Government,CIDCA,ZIL,1.0,100,CNY,13,0,,,,,TAZARA
+Completed,2007,Zambia,EA,,,Government,CIDCA,ZIL,1.0,150,CNY,21,0,,,,,Agreement on Economic and technical Cooperation
+Signed,2019,Zambia,EA,,,Government,AVIC International Project Engineering Company,SC,1.0,24,USD,24,,,,,,"Rehabilitating and maintaining approximately 7,000km of (4,000km – Phase I and 3,000km – Phase II) feeder roads - Phase I"
+Implementation,2018,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),China Machinery Engineering Corporation,SC,1.0,15,USD,15,6,,,,,"Lusiwasi Upper Hydropower, 15MW - Bridging Finance"
+Implementation,2018,Zambia,EA,2.0,AfrStateCom,Zambia Electricity Supply Corporation Limited (ZESCO) (SOE),China Jiangxi Corporation for International Economic and Technical Cooperation (CJIC),SC,1.0,17,USD,17,10,,1.33,0.0,1.33,"Kabwe - Pensulo Second Transmission Line, 330kV - Bridging Finance"
+Signed,2000,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,62,CNY,7,3,,,5.0,15,Unknown (equipment)
+Signed,2005,Zimbabwe,EA,,,Government,China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,12,USD,12,,,,,,MA60 Cargo Plane
+Completed,2006,Zimbabwe,EA,,,Government,China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,150,USD,150,,,,,,Purchase of 12 K-8 Jet Trainer Aircraft
+Completed,2006,Zimbabwe,EA,,,Government,Eximbank,EBC,1.0,200,USD,200,,,,,,"Agricultural Equipment, Pesticides, Fertilizer, etc."
+Completed,2006,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,200,CNY,26,,,,,,Agricultural Machinery Phase I
+Completed,2010,Zimbabwe,EA,2.0,AfrStateCom,NetOne Cellular Private Limited (NetOne) (SOE),Eximbank,CL,1.0,315,CNY,48,,,,5.0,,NetOne Telecom Network Expansion Phase I
+Completed,2011,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,675,CNY,107,2,,,7.0,20,National Defense College in Harare
+Implementation,2012,Zimbabwe,EA,,,Government,Eximbank,Loan,1.0,144,USD,144,,LIBOR+3,,4.0,9,Harare City Water Reticulation
+Completed,2012,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,1025,CNY,164,2,,,,,Victoria Falls Airport Renovation
+Completed,2012,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,90,USD,90,2,,,5.0,20,Medical Equipment/Medicine
+Completed,2013,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,160,USD,160,,,,,,"Kariba South Bank Hydropower Extension 300MW (CL portion, total 320mn)"
+Completed,2014,Zimbabwe,EA,2.0,AfrStateCom,NetOne Cellular Private Limited (NetOne) (SOE),Eximbank,Loan,1.0,1360,CNY,219,2,,,5.0,20,NetOne Telecom Network Expansion Phase II
+Signed,2015,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,150,CNY,23,0,,,,,Economic and Technical Cooperation Agreement
+Completed,2003,Zimbabwe,EA,2.0,AfrStateCom,Zimbabwe Electricity Supply Authority Holding Ltd.- Rural Electrification Agency (ZESA REA) (SOE),China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,22,USD,22,,,,,,"Transformers, Cables, Switch Gears "
+Completed,2004,Zimbabwe,EA,2.0,AfrStateCom,Zimbabwe Electricity Supply Authority Holding Ltd.- Rural Electrification Agency (ZESA REA) (SOE),China National Aero-Technology Import and Export Corporation (CATIC),SC,1.0,40,USD,40,,,,,,Transmission Transformers
+Signed,2013,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,16,USD,16,0,,,,,"Development in Mining, Water and Other Sectors"
+Signed,2013,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,60,CNY,10,0,,,,,Road Equipment for Rural District Councils Purchase
+Signed,2011,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,8,USD,8,0,,,,,Unknown
+Signed,2008,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,"Loan for ""Critical Areas that Need Funds"""
+Signed,2010,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0,,,,,"Mahusekwa, Hospital and Supply of Medical Drugs"
+Signed,2008,Zimbabwe,EA,2.0,AfrStateCom,Zimbabwe United Passenger Company (ZUPCO) (SOE),Kimberley (Chinese Private Company),SC,1.0,18,USD,18,,,,,,Purchase of 50 Buses
+Implementation,2016,Zimbabwe,EA,,,Government,Eximbank,PEBC,1.0,998,USD,998,2,,13.0,7.0,20,Hwange Coal Power Station Expansion 600MW Phase III - Units 7&8
+Completed,2015,Zimbabwe,EA,,,Government,Eximbank,CommL,1.0,99,USD,99,5,,,,,TelOne Backbone Optic Fibre Network and the Core and Access Network Modernisation Project
+Signed,2017,Zimbabwe,EA,2.0,AfrStateCom,Zimbabwe Mining Development Corporation (ZMDC) (SOE),Xuzhou Construction Machinery Group (XCMG),SC,1.0,5,USD,5,,,,,,Equipment for Artisanal Miners Disbursement 1
+Signed,2018,Zimbabwe,EA,2.0,AfrStateCom,Zimbabwe Mining Development Corporation (ZMDC) (SOE),Xuzhou Construction Machinery Group (XCMG),SC,1.0,5,USD,5,,,,,,Equipment for Artisanal Miners Disbursement 2
+Signed,2019,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,71,USD,71,2,,15.0,5.0,20,NetOne Telecom Network Expansion Phase III
+Completed,2013,Zimbabwe,EA,,,Government,Eximbank,PEBC,1.0,160,USD,160,,,,,,"Kariba South Bank Hydropower Extension 2x150MW(300MW) (PEBC portion, total 320mn)"
+Implementation,2018,Zimbabwe,EA,,,Government,Eximbank,CL,1.0,1045,CNY,152,2,,,7.0,20,Harare Robert Gabriel Mugabe International Airport Upgrade
+Signed,2015,Zimbabwe,EA,,,Government,CIDCA,ZIL,1.0,33,CNY,5,,,,,,"Supercomputer Center, University of Zimbabwe"
+Signed,2002,Algeria,NA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,Economic Cooperation Loan
+Signed,2002,Algeria,NA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,25,Economic and Technical Agreement
+Signed,2002,Egypt,NA,,,Government,CIDCA,ZIL,1.0,100,CNY,12,0,,,,,Unknown
+Completed,2004,Egypt,NA,,,Government,CIDCA,ZIL,1.0,250,CNY,30,0,,,,,Unknown
+Signed,2005,Egypt,NA,,,Government,Eximbank,CL,1.0,16,USD,16,2,,20.0,5.0,,Refurbishing of a Polyester Factory owned by Egypt Cotton Holdings Company
+Completed,2006,Egypt,NA,,,Government,Eximbank,CL,1.0,476,CNY,61,2,,,,,Cairo International Convention Center
+Completed,2012,Egypt,NA,3.0,AfrStateBanks,National Bank of Egypt (NBE) (SOE),CDB,CommL,1.0,200,USD,200,,Libor+3.75,,3.0,8,SMEs
+Completed,2015,Egypt,NA,3.0,AfrStateBanks,National Bank of Egypt (NBE) (SOE),CDB,CL,1.0,100,USD,100,,,,,,SMEs
+Signed,2002,Egypt,NA,,,Government,CIDCA,ZIL,1.0,100,CNY,12,0,,,,,Unknown
+Completed,2016,Egypt,NA,3.0,AfrStateBanks,Central Bank of Egypt (CBE) (SOE),CDB,CommL,1.0,900,USD,900,,,8.0,3.0,11,Bolster foreign exchange reserves
+Completed,2016,Egypt,NA,3.0,AfrStateBanks,National Bank of Egypt (NBE) (SOE),CDB,CommL,1.0,700,USD,700,,,8.0,3.0,11,Interbank Loan
+Completed,2016,Egypt,NA,3.0,AfrStateBanks,Banque Misr (SOE),CDB,CommL,1.0,100,USD,100,,,3.0,2.0,5,SMEs
+Implementation,2019,Egypt,NA,,,Government,Eximbank,Loan,1.0,739,USD,739,1.8,,,,,"Cairo-10th of Ramadan-New Administrative Capital Light Rail, 68km (First Loan, total $1.2 billion)"
+Completed,2017,Egypt,NA,2.0,AfrStateCom,Egyptian Electricity Transmission Company (EETC) (SOE),"MixedCN: China Eximbank, CDB and ICBC",Loan,1.0,690,USD,690,,,,,,500kV Transmission Line Project 1210km
+Completed,2017,Egypt,NA,3.0,AfrStateBanks,Banque Misr (SOE),CDB,Loan,1.0,500,USD,500,,,,,8,Interbank Loan
+Implementation,2018,Egypt,NA,6.0,JV,"Telecom Egypt Company S.A.E. (Egypt 80%, Free Float 20%)","Huawei Technologies Co., Ltd.",SC,1.0,200,USD,200,,,,,,Rollout of 4G network and transmission system
+Implementation,2018,Egypt,NA,3.0,AfrStateBanks,National Bank of Egypt (NBE) (SOE),CDB,Loan,1.0,600,USD,600,,,,,,Interbank Loan
+Implementation,2019,Egypt,NA,,,Government,Eximbank,Loan,1.0,461,USD,461,2,,10.0,5.0,15,"Cairo-10th of Ramadan-New Administrative Capital Light Rail, 68km (Second Loan, total $1.2 billion)"
+Signed,2002,Morocco,NA,,,Government,Eximbank,CL,1.0,50,CNY,6,,,,,,"Ifrane, Chefchaouen and Al-Hoceima irrigation dam projects, Eximbank tranche, total 6 million "
+Signed,2002,Morocco,NA,,,Government,CIDCA,ZIL,1.0,5,CNY,1,0,,,,,Geo-chemical map of Goulmim-Asmara
+Signed,2001,Morocco,NA,,,Government,Eximbank,Loan,1.0,13,USD,13,,,,,,6 Health Clinics
+Completed,2014,Morocco,NA,,,Government,Eximbank,CL,1.0,305,USD,305,,,,,,"Jerada Coal Power Plant (1X350MW=350MW), Eximbank loan, 305 million"
+Completed,2011,Morocco,NA,,,Government,Eximbank,CL,1.0,248,USD,248,,,,,,"Berrechid–Ben Ahmed Highway project (Section 1 of Berrechid–Beni Mellal), 38.6km"
+Signed,2000,Morocco,NA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,Unknown
+Signed,2003,Morocco,NA,,,Government,CIDCA,ZIL,1.0,5,USD,5,0,,,,,Unknown
+Completed,2018,Morocco,NA,,,Government,ICBC,CommL,1.0,150,USD,150,,,,,,Noor Ouarzazate Solar Power Plant Phase II 200MW
+Signed,2008,Morocco,NA,,,Government,Eximbank,EBC,1.0,515,USD,515,,,,,,Equipment purchase
+Completed,2001,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),"Harbin Electric Company, Ltd.",SC,1.0,128,USD,128,,,,,,El-Jaili (Garri/Qarre) Gas Power Station Phase I 212MW
+Completed,2002,Sudan,NA,,,Government,Eximbank,Loan,1.0,39,USD,39,5,,,,4,Khartoum State Electricity - equipment and spare parts
+Signed,2003,Sudan,NA,,,Government,Eximbank,Loan,1.0,12,USD,12,3,,,5.0,15,Khartoum State Electricity
+Completed,2003,Sudan,NA,,,Government,Eximbank,EBC,1.0,608,USD,608,,,,,,"Merowe Hydropower Project 1,250MW"
+Completed,2003,Sudan,NA,,,Government,CN Gov,Loan,1.0,41,USD,41,,,,,,Aircraft Parts
+Completed,2003,Sudan,NA,,,Government,CN Gov,Loan,1.0,106,USD,106,,,,,,Military Equipment
+Signed,2003,Sudan,NA,,,Government,CN Gov,Loan,1.0,10,USD,10,3.5,,,,4,Water equipment from Bushan Company
+Signed,2003,Sudan,NA,,,Government,Eximbank,CL,1.0,4,USD,4,,,,,,International Conference Hall
+Signed,2004,Sudan,NA,,,Government,CN Gov,Loan,1.0,11,USD,11,3,,,,1.5,Water equipments
+Implementation,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,33,USD,33,4,,6.0,2.0,8,El-Fashir Water Supply System Project
+Signed,2005,Sudan,NA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,22,USD,22,4,,,2.0,6,Grain Depot
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,13,USD,13,4,,6.0,2.0,8,Engineering Equipment (Camco Co.)
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,11,USD,11,4,,6.0,2.0,8,Drilling of 150 wells (Tanjin Co.)
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,10,USD,10,4,,5.0,1.5,6.5,Irrigation Equipment
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,7,USD,7,4,,6.0,2.0,8,Rehabilitation of Cotton Ginning Factories
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,6,USD,6,3,,5.0,2.0,7,Electric generators (CNEEN Co.)
+Signed,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,4,USD,4,4,,8.0,1.0,9,Drilling of 50 wells in Northern Kordofan (Tianjin Co.)
+Signed,2005,Sudan,NA,,,Government,CN Gov,Loan,1.0,4,USD,4,,,,,10,Unknown
+Implementation,2006,Sudan,NA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,81,USD,81,,,,,,Rabak-Obied Transmission Line 340km
+Completed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,34,USD,34,4,,,3.0,7,Dongla Water Supply Project
+Completed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,27,USD,27,4,,,3.0,7,Matama-Abu Hamed-El Daba Water Supply Project
+Completed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,29,USD,29,4,,,3.0,7,Wad Medani Water Treatment Plant
+Completed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,30,USD,30,4,,,3.0,7,Kosti Water Project
+Signed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,17,USD,17,4,,,2.0,2,Supply of Hdpe Pipes
+Signed,2006,Sudan,NA,,,Government,Eximbank,Loan,1.0,5,USD,5,3.4,,,1.0,7,Solar Energy Project in Northern Kordofan (phase I?)
+Signed,2007,Sudan,NA,,,Government,CN Gov,,1.0,7,USD,7,5,,,,3.5,Solar Energy Project in Northern Kordofan (phase II?)
+Completed,2008,Sudan,NA,,,Government,Eximbank,Loan,1.0,51,USD,51,,,,,,"Nyala Water Supply - water pipes, water spare parts, water tanks, and unspecified project costs"
+Signed,2004,Sudan,NA,,,Government,Eximbank,Loan,1.0,4,USD,4,,,,,10,Unknown
+Implementation,2005,Sudan,NA,,,Government,Eximbank,Loan,1.0,67,USD,67,4,,6.0,2.0,8,Gedarif Water Supply System Project
+Completed,2008,Sudan,NA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,81,USD,81,,,,,,Kehaila East Agricultural Scheme - Merowe Resettlement
+Implementation,2009,Sudan,NA,,,Government,China National Machinery Industry Corporation (Sinomach),SC,1.0,463,USD,463,4,,,4.0,10,Port Sudan Water Project
+Signed,2010,Sudan,NA,,,Government,CN Gov,Loan,1.0,10,USD,10,2,,,,15,IT system for education and administration
+Signed,2011,Sudan,NA,,,Government,CIDCA,ZIL,1.0,5,USD,5,0,,,,,Economic-Technical Projects / Atbara steel bridge
+Completed,2012,Sudan,NA,,,Government,CIDCA,ZIL,1.0,180,CNY,29,0,,,,,Economic and Technical Cooperation Projects / Renovation of Friendship Hall in Khartom
+Completed,2011,Sudan,NA,,,Government,CN Gov,Loan,1.0,104,USD,104,,,,,,Upper Atbara Hydropower Project - 135 MW
+Completed,2004,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),"Harbin Electric Company, Ltd.",SC,1.0,82,USD,82,,,,,,El Jaili (Garri) Power Plant Phase II
+Completed,2004,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),China Machinery Engineering Corporation (CMEC),SC,1.0,129,USD,129,,,,,,El Jaili (Garri) Power Plant Phase IV 100MW
+Implementation,2003,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),"Tebian Electric Apparatus Co., Ltd. (TBEA)",SC,1.0,25,USD,25,6,,,,,El Gaili-Shendi-Atbara 220kV transmission line
+Completed,2008,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),"Tebian Electric Apparatus Co., Ltd. (TBEA)",SC,1.0,29,EUR,41,5,,,,,North Khartoum Electrical Substation and Other Substations/Transmission Lines
+Completed,2005,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),Eximbank,Loan,1.0,175,USD,175,3.7,,,3.0,9,North Khartoum Power Station/Martyr Dr. Mahmoud Sharif Bbhari phase III/Unit D power plant expansion
+Signed,2006,Sudan,NA,2.0,AfrStateCom,Sudan National Electricity Corporation (NEC) (SOE),"China National Electric Engineering Co., Ltd. (CNEEC)",SC,1.0,8,USD,8,,,,,,SP-2 Diesel Generator Power Plant
+Signed,2005,Sudan,NA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Mini diesel power generators
+Completed,2009,Sudan,NA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,215,USD,215,,,,,,White Nile Electrification Project (AI-Duwaim/Ad Douiem Electricity Transmission Project)
+Completed,2003,Sudan,NA,,,Government,Eximbank,Loan,1.0,381,USD,381,,,,,,Merowe Hydropower Project transmission lines and substations
+Completed,2003,Sudan,NA,,,Government,CN Gov,Loan,1.0,38,USD,38,,,,,,New Amri Agricultural Scheme - Merowe Resettlement
+Completed,2003,Sudan,NA,,,Government,CN Gov,Loan,1.0,35,USD,35,,,,,,El Mekabrab Agricultural Scheme - Merowe Resettlement
+Signed,2004,Sudan,NA,,,Government,CN Gov,Loan,1.0,12,USD,12,,,,,,Rufaa Bridge/Sennar Bridge
+Signed,2004,Sudan,NA,,,Government,CN Gov,Loan,1.0,9,USD,9,,,,,,El Dueim Bridge
+Signed,2009,Sudan,NA,,,Government,CIDCA,ZIL,1.0,80,CNY,12,,,,,,Unknown
+Signed,2008,Sudan,NA,,,Government,CIDCA,ZIL,1.0,100,CNY,15,0,,,,,Presidential Palace
+Signed,2002,Sudan,NA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Signed,2004,Sudan,NA,,,Government,CN Gov,Loan,1.0,60,CNY,7,,,,,,Unknown
+Implementation,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,199,USD,199,3.5,,,,20,Al Rank-Malakal Road (Peace Road) 340 km
+Completed,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,86,USD,86,3.5,,,,20,Aum Kadada-Alfashir Road (or Western Salvation Road/Aum-Fa Road) 168 km
+Implementation,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,63,USD,63,3.5,,,,20,South Kordofan Um Rawaba- Abu Gibeha Ring Road / 141 km / Aum Roaba - Abu Gebaha Road
+Implementation,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,680,USD,612,,,,,,Al Fulah Gas-Power Plant 300 MW
+Implementation,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,90,USD,90,,,,,,Al Dibabat-Abou Zayd-El Fula Road (or Dubeibat-Abu Zabad-El Fula Road) 185 km
+Completed,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,110,USD,110,,,,,,El Nahood-Aum Kadada Road (or En Nahud-Um Kadada Road) 211 km
+Implementation,2009,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,120,USD,120,,,,,,Zalingei-El Geneinah Road (or Zalingei-Al Junaynah Road) 175 km
+Implementation,2010,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,233,USD,233,3,,,,15,South Kordofan Transmission Lines (Al Fulah Thermal Plant's Tranmission Line?)
+Signed,2010,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,24,USD,24,5.6,,,,15,Dali water project
+Completed,2010,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,59,USD,59,,,,,,"Sennar Bridge 3,025 meters"
+Completed,2010,Sudan,NA,,,Government,Eximbank,FA-sub,1.0,30,USD,30,5.6,,,,15,Agricultural improvement/electricification in Blue Nile
+Signed,2001,Sudan,NA,,,Government,CIDCA,ZIL,1.0,4,USD,4,0,,,,,Unknown
+Signed,2017,Sudan,NA,,,Government,CIDCA,ZIL,1.0,100,CNY,15,,,,,,Rescue boats and civil defense technical equipment
+Signed,2018,Sudan,NA,,AfrGov,Government,CIDCA,ZIL,1.0,200,CNY,29,0,,,,,Zero-interest loan from 2018 FOCAC package
+Signed,2017,Sudan,NA,,,Government,CIDCA,ZIL,1.0,100,CNY,15,,,,,,Integrated slaughterhouse
+Signed,2004,Tunisia,NA,,,Government,Eximbank,CL,1.0,140,CNY,17,,,,,,Tunisie Telecom Project - network switches
+Signed,2006,Tunisia,NA,,,Government,Eximbank,CL,1.0,50,CNY,6,,,,,,Tunisie Telecom Project - mobile network
+Signed,2000,Tunisia,NA,,,Government,CIDCA,ZIL,1.0,4,TND,3,0,,,,,Unknown
+Signed,2006,Tunisia,NA,,,Government,Eximbank,CL,1.0,50,CNY,6,,,,,,Equipment procurement and engineering services to National Telecommunications Corporation of Tunisia
+Completed,2009,Tunisia,NA,2.0,AfrStateCom,Tunisian National Railways Company (SNCFT) (SOE),Eximbank,Loan,1.0,80,USD,80,,,,,,Purchase of 20 trains
+Signed,2004,Tunisia,NA,,,Government,Eximbank,Loan,1.0,134,CNY,16,,,,,,Telecom project
+Signed,2007,Tunisia,NA,,,Government,Eximbank,Loan,1.0,21,CNY,3,,,,,,Telecom project
+Completed,2009,Regional,RG,3.0,AfrStateBanks,African Export Import Bank (Afreximbank),Eximbank,Loan,1.0,100,USD,100,,,,,,Trade and Project Finance
+Completed,2008,Regional,RG,3.0,AfrStateBanks,Trade and Development Bank (TDB),CDB,Loan,1.0,50,USD,50,,,,,10,"Telecommunication, Mining, Infrastructure and Other Key Sectors"
+Completed,2014,Regional,RG,3.0,AfrStateBanks,Trade and Development Bank (TDB),CDB,Loan,1.0,60,USD,60,,,,,,SMEs
+Completed,2013,Regional,RG,3.0,AfrStateBanks,Development Bank of Central African States (BDEAC),CDB,Loan,1.0,30,EUR,41,,,,,,SMEs
+Completed,2011,Regional,RG,3.0,AfrStateBanks,Banque Ouest Africaine de Developpement (BOAD),CDB,Loan,1.0,60,EUR,78,,,,,,Commercial Sector Projects Refinancing
+Completed,2014,Regional,RG,3.0,AfrStateBanks,Banque Ouest Africaine de Developpement (BOAD),CDB,Loan,1.0,125,USD,125,,,,,,Private Sector Lending UEMOA Member States
+Implementation,2016,Regional,RG,3.0,AfrStateBanks,African Export Import Bank (Afreximbank),Eximbank,Loan,1.0,50,USD,50,,,,,5,"Trade Finance, China Guaranteed Loan Tranche II"
+Implementation,2016,Regional,RG,3.0,AfrStateBanks,Development Bank of Central African States (BDEAC),CDB,Loan,1.0,40,EUR,42,,,,,,SMEs
+Implementation,2006,Regional,RG,3.0,AfrStateBanks,Banque Ouest Africaine de Developpement (BOAD),Eximbank,Loan,1.0,70,EUR,92,,,,,,"Financing for Economic Cooperation, Investment, and Business Cooperation with China"
+Implementation,2015,Regional,RG,3.0,AfrStateBanks,Banque Ouest Africaine de Developpement (BOAD),CDB,Loan,1.0,100,EUR,109,,,,,,Private Sector Activities in the UEMOA Member States
+Implementation,2015,Regional,RG,3.0,AfrStateBanks,Trade and Development Bank (TDB),PBC,Loan,1.0,8,USD,8,,,,,,Unknown
+Implementation,2015,Regional,RG,3.0,AfrStateBanks,Trade and Development Bank (TDB),PBC,Loan,1.0,5,USD,5,,,,,,Unknown
+Implementation,2017,Regional,RG,3.0,AfrStateBanks,Trade and Development Bank (TDB),Eximbank,EBC,1.0,250,USD,250,,,,,,"Trade, Project and Infrastructure Finance, Treasury "
+Implementation,2018,Regional,RG,3.0,AfrStateBanks,African Export Import Bank (Afreximbank),CDB,Loan,1.0,500,USD,500,,,,,10,Medium to Long Term Financing for Sub- Projects in Various Sector
+Implementation,2018,Regional,RG,3.0,AfrStateBanks,Africa Finance Corporation (AFC),Eximbank,Loan,1.0,200,USD,200,,,,,5,General Corporate Purposes
+Implementation,2018,Regional,RG,3.0,AfrStateBanks,Africa Finance Corporation (AFC),Eximbank,Loan,1.0,100,USD,100,,,,,5,General Corporate Purposes
+Signed,2019,Regional,RG,3.0,AfrStateBanks,African Export Import Bank (Afreximbank),Eximbank,Loan,1.0,75,USD,75,,,,,5,"Reduce Cost of Funds and Diversify Books, Investor Type and Tenor, China Guaranteed Loan 2 Tranche II"
+Signed,2018,Regional,RG,3.0,AfrStateBanks,African Export Import Bank (Afreximbank),BoC,CommL,1.0,350,USD,350,,,,,,"Loans to African Banks for Trade Finance, Syndicated Loans, Etc."
+Completed,2001,Botswana,SA,,,Government,CIDCA,ZIL,1.0,80,CNY,10,0,,,,,Gaborone Multipurpose Youth Center
+Signed,2003,Botswana,SA,,,Government,Eximbank,CL,1.0,32,CNY,4,4,,8.0,4.0,12,"Botswana Housing Corporation (BHC) 725 housing in Gaborone, Maun, Jwaneng, Lobatse and Francistown (CL part)"
+Completed,2006,Botswana,SA,,,Government,Eximbank,CL,1.0,50,BWP,8,,,,,,Gaborone 293 Houses in District 7
+Completed,2003,Botswana,SA,,,Government,Eximbank,CL,1.0,200,CNY,24,3,,7.0,5.0,12,Letlhakeng-Kang Road Section I 561 km (Letlhakeng-Dutlwe)
+Completed,2005,Botswana,SA,,,Government,Eximbank,CL,1.0,150,CNY,19,3,,,,15,Letlhakeng-Kang Road Section II 133 km (Dutlwe-Kang/Morwamosu)
+Signed,2005,Botswana,SA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Signed,2008,Botswana,SA,,,Government,CIDCA,ZIL,1.0,22,BWP,3,0,,10.0,10.0,20,Unknown
+Completed,2009,Botswana,SA,2.0,AfrStateCom,Botswana Power Corporation (BPC) (SOE),ICBC,EBC,1.0,825,USD,825,,Libor + ?,,3.5,20,Morupule B Coal-Fired Power Station Expansion Project 600MW
+Signed,2004,Botswana,SA,,,Government,Eximbank,EBC,1.0,200,CNY,24,3,,11.0,4.0,15,"Gaborone, Maun, Jwaneng, Lobatse and Francistown BHC Houses  - 725 houses  (EBC part)"
+Completed,2000,Botswana,SA,,,Government,Eximbank,Loan,1.0,13,BWP,2,4,,12.0,4.0,16,Kasane BHC houses - 86 Houses
+Completed,2001,Botswana,SA,,,Government,Eximbank,Loan,1.0,22,BWP,3,4,,8.0,4.0,12,Gaborone BHC houses - 217 Houses
+Completed,2001,Botswana,SA,,,Government,Eximbank,Loan,1.0,16,BWP,2,4,,8.0,4.0,12,Francistown BHC Houses - 120 Houses
+Completed,2003,Botswana,SA,,,Government,Eximbank,Loan,1.0,14,BWP,3,4,,8.0,4.0,12,Palapye BHC Houses - 150 Houses
+Completed,2008,Lesotho,SA,,,Government,Eximbank,CL,1.0,30,USD,30,,,,5.0,20,Econet Telecom Lesotho National Network Project Phase I
+Completed,2011,Lesotho,SA,,,Government,Eximbank,CL,1.0,30,USD,30,,,,,,Econet Telecom Lesotho National Network Project Phase II
+Signed,2011,Lesotho,SA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Unknown
+Implementation,2018,Lesotho,SA,,,Government,Eximbank,CL,1.0,1400,LSL,98,,,,5.0,20,Ha-Mpiti to SehlabaThebe Road 92km
+Signed,2005,Namibia,SA,,,Government,CIDCA,ZIL,1.0,50,CNY,6,0,,,,,Small industrial/farming projects
+Signed,2006,Namibia,SA,,,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,,,,Unknown
+Implementation,2007,Namibia,SA,,,Government,Eximbank,ZIL,1.0,301,NAD,44,2,,15.0,5.0,20,Custom Scanning Machines for Namibia Customs and Excise Department
+Signed,2007,Namibia,SA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Green Scheme Programme and Aquaculture Project
+Completed,2012,Namibia,SA,,,Government,Eximbank,CL,1.0,1142,NAD,135,2,,10.0,5.0,15,MR67 Omakange-Ruacana Road and DR3602 Omafo-Outapi Road Upgrade
+Completed,2005,Namibia,SA,,,Government,Eximbank,CL,1.0,250,CNY,31,,,,,,17 Diesel Locomotives and 200 Train Cargos
+Signed,2008,Namibia,SA,,,Government,Eximbank,CL,1.0,37,NAD,4,,,15.0,5.0,20,E-government software (government Record and Management upgrade)
+Signed,2004,Namibia,SA,,,Government,CIDCA,ZIL,1.0,30,NAD,5,0,,,,,Unallocated
+Completed,2012,Namibia,SA,2.0,AfrStateCom,Epangelo Mining Company (Epangelo) (SOE),Swakop Uranium (SU),SC,1.0,1882,NAD,223,,,,,,Purchase of 10% Stake in Husab Uranium Mine
+Signed,2018,Namibia,SA,,AfrGov,Government,CIDCA,ZIL,1.0,120,NAD,8,,,,,,Gobabis and Grootfontein - 400 Houses
+Completed,2009,Namibia,SA,,AfrGov,Government,Eximbank,CL,1.0,130,NAD,18,,,,,,Reinfontein National Youth Training Centre
+Signed,2009,Namibia,SA,,,Government,CIDCA,ZIL,1.0,60,CNY,9,0,,,,,Okahandja Defense Academy Project
+Implementation,2016,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),CDB,MFA-sub,1.0,6364,ZAR,464,,,,4.5,15,Transnet Locomotive Purchases - 2016 Disbursement
+Implementation,2017,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),CDB,MFA-sub,1.0,1895,ZAR,153,,,,4.5,15,Transnet Locomotive Purchases - 2017 Disbursement
+Implementation,2018,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),CDB,MFA-sub,1.0,2244,ZAR,156,,,,4.5,15,Transnet Locomotive Purchases - 2018 Disbursement
+Implementation,2019,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),CDB,MFA-sub,1.0,4434,ZAR,317,,,,4.5,15,Transnet Locomotive Purchases - 2019 Disbursement
+Completed,2016,South Africa,SA,2.0,AfrStateCom,Electricity Supply Commission (ESKOM) (SOE),CDB,Loan,1.0,500,USD,500,,,,,,"Infrastructure Construction, including Kusile and Medupi power stations"
+Implementation,2016,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),BoC,CommL,1.0,3000,ZAR,219,,,,,,Transnet Club Loan - Bank of China 2016
+Implementation,2018,South Africa,SA,2.0,AfrStateCom,Electricity Supply Commission (ESKOM) (SOE),CDB,MFA-sub,1.0,900,USD,900,,,,,,Medupi Coal Power Plant expansion (6X794=4800MW) Tranche A
+Implementation,2019,South Africa,SA,2.0,AfrStateCom,Electricity Supply Commission (ESKOM) (SOE),CDB,MFA-sub,1.0,600,USD,600,,,,,,Medupi Coal Power Plant expansion (6X794=4800MW) Tranche B
+Completed,2001,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),CCB,CommL,1.0,36,USD,36,,LIBOR/EURIBOR + 85bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - CCB
+Completed,2002,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),CCB,CommL,1.0,27,USD,27,,LIBOR/EURIBOR + 70bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - CCB
+Completed,2002,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),CCB,CommL,1.0,27,USD,27,,LIBOR/EURIBOR + 90bps,,,5,5-Year Syndicated Term Loan to support foreign currency position - CCB
+Completed,2002,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,10,USD,10,,LIBOR/EURIBOR + 70bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - BoC
+Completed,2002,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,10,USD,10,,LIBOR/EURIBOR + 90bps,,,5,5-Year Syndicated Term Loan to support foreign currency position - BoC
+Completed,2003,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),CCB,CommL,1.0,26,USD,26,,LIBOR/EURIBOR + 67.5bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - CCB
+Completed,2003,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,26,USD,26,,LIBOR/EURIBOR + 67.5bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - BoC
+Completed,2004,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),CCB,CommL,1.0,31,USD,31,,LIBOR/EURIBOR + 47.5bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - CCB
+Completed,2004,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,11,USD,11,,LIBOR/EURIBOR + 47.5bps,,,3,3-Year Syndicated Term Loan to support foreign currency position - BoC
+Completed,2005,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,12,USD,12,,LIBOR/EURIBOR + 30bps,,,5,5-Year Syndicated Term Loan to support foreign currency position and repay previous loans - BoC
+Completed,2005,South Africa,SA,3.0,AfrStateBanks,South African Reserve Bank (SARB) (SOE),BoC,CommL,1.0,12,USD,12,,LIBOR/EURIBOR + 22.5bps,,,3,3-Year Syndicated Term Loan to support foreign currency position and repay previous loans - BoC
+Implementation,2019,South Africa,SA,2.0,AfrStateCom,Electricity Supply Commission (ESKOM) (SOE),CDB,MFA-sub,1.0,50,USD,50,,,,,15,"Kusile Power Station and other Eskom Infrastructure, Tranche A"
+Signed,2019,South Africa,SA,2.0,AfrStateCom,Transnet SOC Ltd (Transnet) (SOE),ICBC,CommL,1.0,3800,ZAR,271,,Floating,,,5.5,Financing capital expenditures and operating activities
+Completed,2000,Benin,WA,,,Caisse Autonome d'Amortissement,Eximbank,CL,1.0,74,CNY,9,3,,10.0,5.0,15,Benin Textile Company JV
+Completed,2001,Benin,WA,,,Government,CIDCA,ZIL,1.0,130,CNY,16,0,,,,,Cotonou Conference Center
+Completed,2010,Benin,WA,,,Government,Eximbank,CL,1.0,15600,XOF,32,2,,15.0,5.0,20,Cotonou Administrative Towers
+Implementation,2016,Benin,WA,,AfrGov,Government,Eximbank,CL,1.0,270,USD,270,,,,7.0,20,Adjarala Hydropower Project 147MW (Benin Loan)
+Signed,2006,Benin,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Signed,2013,Benin,WA,,,Government,CIDCA,ZIL,1.0,150,CNY,25,0,,,,,"Unknown (""Continuation of Preexisting Projects"")"
+Implementation,2013,Benin,WA,,,Government,Eximbank,CL,1.0,800,CNY,132,1,,13.0,7.0,20,"Akassato-Bohicon Road Lot 3, 72.1km "
+Implementation,2015,Benin,WA,,,Government,Eximbank,Loan,1.0,80,USD,80,2,,13.0,7.0,20,Nation's telecommunications/broadband Infrastructure project for fiber optics and 4G - PDI2T
+Completed,2013,Benin,WA,,,Government,CIDCA,ZIL,1.0,30000,XOF,63,0,,,,,"Akassato-Bohicon Road Lot 2, 72.1km"
+Completed,2013,Benin,WA,,,Government,CIDCA,ZIL,1.0,141,CNY,23,0,,,,,"Akassato-Bohicon Road Lot 1, 72.1km"
+Implementation,2017,Benin,WA,,,Government,Eximbank,Loan,1.0,606,CNY,93,2,,13.0,7.0,20,"Collines Province, Drinking Water Supply"
+Implementation,2019,Burkina Faso,WA,,,Government,BoC,CommL,1.0,77,USD,77,,,,,,National Backbone Project
+Completed,2001,Cote d'Ivoire,WA,2.0,AfrStateCom,Société d’Etat pour le Développement Minier de Côte d’Ivoire (SODEMI) (SOE),Eximbank,Loan,1.0,10,CNY,1,3,,10.0,5.0,15,Zeregbo Gold Mining Development
+Signed,2005,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,20,CNY,2,0,,,,,"Unknown (""Accelerate Peace Process"")"
+Signed,2006,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,2,EUR,2,0,,,,,"Unknown (""Joint Cooperation Projects"")"
+Completed,2007,Cote d'Ivoire,WA,,,Government,Eximbank,PEBC,1.0,30,USD,30,,,,,,Grand Bassam E-government Data Center
+Signed,2009,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Completed,2012,Cote d'Ivoire,WA,,,Government,Eximbank,PEBC,1.0,115,USD,115,2,,,,20,"Abidjan-Grand Bassam Highway, 42km "
+Completed,2012,Cote d'Ivoire,WA,,,Government,Eximbank,CL,1.0,602,CNY,97,,,,,,Abidjan Bonoua Water Supply Phase I
+Completed,2013,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,500,USD,500,2,,,9.0,20,Soubre Hydropower Project 275MW
+Signed,2013,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,16,USD,16,0,,,,,"Unknown, Economic Cooperation Agreement for Socioeconomic Infrastructure"
+Completed,2014,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,48400,XOF,89,,,,,,Abidjan Bonoua Water Supply Phase II
+Completed,2015,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,24000,XOF,40,0,,,,,"Ebimpe, Abidjan, d’Ebimpé d’Abobo Anyama Olympic Stadium "
+Signed,2011,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,46,CNY,7,0,,,,,Unknown
+Completed,2014,Cote d'Ivoire,WA,,,Government,Eximbank,PEBC,1.0,793,USD,793,2,,,9.0,,Abidjan Port Expansion
+Signed,2006,Cote d'Ivoire,WA,,,Government,CIDCA,ZIL,1.0,1,EUR,1,0,,,,,"Unknown, Strengthen Bilateral Cooperation"
+Completed,2010,Cote d'Ivoire,WA,,,Government,Eximbank,CL,1.0,400,CNY,61,,,,,,Concorde Residences Phase II
+Completed,2016,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,33035,XOF,52,,,,,,Abidjan Video Surveillance Platform
+Completed,2017,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,38300,XOF,70,,,,,,"Odienné-Gbéléban Road Asphalting, 71km "
+Completed,2017,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,36000,XOF,66,,,,,,"Agboville-Rubino-Ceshi Road Asphalting , 51km"
+Implementation,2018,Cote d'Ivoire,WA,,AfrGov,Government,Eximbank,CL,1.0,162000,XOF,283,,,,,,"Tiébissou-Bouaké Highway, 96km"
+Implementation,2019,Cote d'Ivoire,WA,,AfrGov,Government,BoC,CommL,1.0,97,USD,97,,,,,,PK24 Industrial Zone Project in Abidjan Phase 1
+Implementation,2019,Cote d'Ivoire,WA,,AfrGov,Government,Eximbank,CL,1.0,169400,XOF,290,,,,,,Gribo Popoli Hydropower Project 112MW
+Implementation,2019,Cote d'Ivoire,WA,,AfrGov,Government,Eximbank,CL,1.0,166300,XOF,284,,,,,,"Drinking Water Supply Enhancement in 12 Cities (Daloa, Bouafle, Boundiali, Touba, Odienne, Seguela, Mankono, Sassandra, Grand-Lahou, Divo, Katiola, and Tanda)"
+Completed,2015,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,1105,CNY,170,1,,,,7,National Power Grid Upgrade Project Tranche 1
+Completed,2015,Cote d'Ivoire,WA,,,Government,Eximbank,Loan,1.0,350000,XOF,580,2,,,,9,National Power Grid Upgrade Project Tranche 2
+Completed,2010,Cape Verde,WA,,,Government,Eximbank,CL,1.0,17,USD,17,,,,,,E-government Phase I - National Data Center
+Completed,2006,Cape Verde,WA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,"Praia, Agostinho Neto Hospital New Maternity Ward "
+Completed,2008,Cape Verde,WA,,,Government,Eximbank,CL,1.0,13,USD,13,,,,,,Container Scanners Purchase - 13 Units
+Signed,2008,Cape Verde,WA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,Unknown
+Implementation,2017,Cape Verde,WA,,,Government,Eximbank,CL,1.0,85,CNY,13,2,,13.0,7.0,20,E-government Phase II
+Completed,2018,The Gambia,WA,,,Government,Eximbank,CL,1.0,25,USD,25,2,,13.0,7.0,20,Gambia National Broadband Network Project
+Completed,2000,Ghana,WA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,6,USD,6,,,,,11,Volta Lake Resettlement Township Electrification Project under the Upper West Electrification project (USD seller's credit)
+Completed,2000,Ghana,WA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,162,CNY,20,,,,,11,Volta Lake Resettlement Township Electrification Project under the Upper West Electrification project (RMB seller's credit)
+Completed,2003,Ghana,WA,,,Government,CIDCA,ZIL,1.0,32,CNY,4,0,,,,,Armed Forces and Police Barracks - 40 Units
+Completed,2007,Ghana,WA,,,Government,Eximbank,CL,1.0,306,USD,306,2,,,5.0,20,"Bui Hydropower Project 400 MW (CL part, Total 749.6mn)"
+Completed,2007,Ghana,WA,,,Government,Eximbank,EBC,1.0,292,USD,292,,CIRR + 1.075%,,5.0,17,"Bui Hydropower Project 400 MW (CommL part, Total 749.6mn)"
+Completed,2007,Ghana,WA,,,Government,Eximbank,CL,1.0,30,USD,30,,,,,,Dedicated Security Information System Phase I
+Completed,2009,Ghana,WA,,,Government,Eximbank,Loan,1.0,30,USD,30,4,,,2.0,10,E-government Project Phase I - Data Centre and Wide Area Network (WAN)
+Completed,2008,Ghana,WA,,,Government,Eximbank,CL,1.0,58,CNY,8,2,,,5.0,20,University of Ghana Legon ICT-Enabled Distance Learning System Phase I
+Completed,2011,Ghana,WA,,,Government,Eximbank,CL,1.0,30,USD,30,,,,,,E-government Project Phase II - WiMax Network Upgrade (CL Part)
+Completed,2013,Ghana,WA,,,Government,CDB,MFA-sub,1.0,850,USD,850,,Libor 6M +2.85%,,3.0,10,"Western Corridor Gas Infrastructure Project, Jubilee Oil Field"
+Completed,2013,Ghana,WA,,,Government,CDB,MFA-sub,1.0,150,USD,150,,Libor 6M +2.85%,,3.0,10,"Integrated National Security Communications Enhancement Network (ALPHA) Project - Phase I
+"
+Implementation,2019,Ghana,WA,,,Government,CDB,MFA-sub,1.0,186,USD,186,,Libor 6M +2.85%,,3.0,9,Construction of Eleven Coastal Fishing Landing Sites Project
+Implementation,2019,Ghana,WA,,,Government,CDB,MFA-sub,1.0,211,USD,211,,Libor 6M +2.85%,,3.0,9,Accra Intelligent Traffic Management System and Road Completion
+Completed,2010,Ghana,WA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,90,USD,77,,6M Libor + 0.80,,5.0,15,NES - Upper West Regional Electrification Project
+Completed,2011,Ghana,WA,,,Government,Eximbank,PEBC,1.0,260,USD,260,2,,,5.0,15,Kpong Water Supply Project
+Completed,2012,Ghana,WA,,,Government,Eximbank,PEBC,1.0,32,USD,32,2,,,5.0,19,University of Ghana Legon ICT-Enabled Distance Learning System Phase II
+Completed,2012,Ghana,WA,,,Government,Eximbank,Loan,1.0,200,CNY,32,2,,,5.0,20,Cape Coast Kotokuraba Market Project
+Completed,2012,Ghana,WA,,,Government,Eximbank,Loan,1.0,75,USD,75,2,,,5.0,20,Bui Hydropower Project 400MW Additional Finance Loan 1(Total 749.6mn)
+Completed,2006,Ghana,WA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,81,USD,81,,,,,,"Upper West Electrification Project, SHEP-4 Phase 1 Supply & Installation of Equipment"
+Completed,2012,Ghana,WA,,,Government,China International Water & Electric Corporation (CWE),SC,1.0,180,USD,162,,,,,,Upper West Electrification Extension
+Completed,2012,Ghana,WA,,,Government,ICBC,EBC,1.0,102,USD,102,,US Libor 6months + 0.3%,,5.0,15,Northern Region Rural Electrification
+Completed,2006,Ghana,WA,,,Government,Eximbank,Loan,1.0,30,USD,30,2,,,5.0,20,National Communication Backbone Infrastructural Project Phase I
+Completed,2007,Ghana,WA,,,Government,CIDCA,ZIL,1.0,4,USD,4,0,,,,,Ghana-China Tech. & Economic Co-op
+Completed,2008,Ghana,WA,,,Government,Poly Technologies Inc.,SC,1.0,100,USD,100,5,,,1.0,5,Purchase of Ghana Armed Forces Equipment
+Completed,2008,Ghana,WA,,,Government,Poly Technologies Inc.,SC,1.0,60,USD,60,5,,,,,"UN Peacekeeping Operations in Darfur, Sudan"
+Completed,2008,Ghana,WA,,,Government,Poly Technologies Inc.,SC,1.0,40,USD,40,5.9,,,1.0,5,Purchase of 2 46M Patrol Boats
+Signed,2009,Ghana,WA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,"Unknown, Technical Cooperation"
+Completed,2013,Ghana,WA,,,Government,Eximbank,Loan,1.0,1,GHS,1,,,,,,Accra One-stop Center for Public Services
+Completed,2003,Ghana,WA,,,Government,CIDCA,ZIL,1.0,180,CNY,22,0,,,,,"Accra-Kumasi Road, Ofankor-Nsawam Section Rehablitation and Expansion, 17.4km"
+Signed,2007,Ghana,WA,,,Government,CIDCA,ZIL,1.0,5,USD,5,0,,,,,Support Country's Development
+Completed,2013,Ghana,WA,,,Government,Eximbank,PEBC,1.0,123,USD,123,2,,15.0,5.0,20,Dedicated Security Information System Phase II
+Completed,2011,Ghana,WA,,,Government,Eximbank,CommL,1.0,120,USD,120,,,,,,E-government Project Phase II - WiMax Network Upgrade (CommL Part)
+Completed,2016,Ghana,WA,6.0,JV,"Meridian Port Services (MPS) (APN Terminals 35%, Bolloré Transport and Logistics 35%, Ghana 30%)",BoC,CommL,1.0,231,USD,231,,,,,,Tema Port Expansion Project
+Completed,2016,Ghana,WA,,,Government,ICBC,CommL,1.0,88,USD,88,,LIBOR 6m + 0.5,11.0,4.0,15,"Rural Electrification Programme CWE - Electrification of 1,033 communities in Ashanti, Brong Ahafo, Eastern, Volta and Western Regions - Phase 1 (495 communities)  under Self-Help Electrification Programme (SHEP) Phase V"
+Implementation,2016,Ghana,WA,,,Government,ICBC,CommL,1.0,85,USD,85,,LIBOR 6m + 0.5,,5.0,15,Self-Help Electrification Programme (SHEP) in Five Regions HUNAN
+Completed,2003,Ghana,WA,,,Government,Eximbank,EBC,1.0,19,USD,19,,,,,,Purchase of 400 Yaxing Buses Import
+Completed,2012,Ghana,WA,,,Government,Eximbank,Loan,1.0,76,USD,76,0,,,2.0,14,Bui Hydropower Project 400 MW Additional Finance Loan 2 (Total 749.6mn)
+Implementation,2019,Ghana,WA,,,Government,Sinohydro Ltd.,SC,1.0,647,USD,550,,6M Libor+2.8%,12.0,3.0,15,Construction/Rehabilitation of Selected Roads and Interchanges in Ghana- Phase 1
+Implementation,2018,Ghana,WA,,,Government,Eximbank,CL,1.0,119,USD,119,2,,15.0,5.0,20,"Upgrading of Polytechnics, Technical and Vocational Training Centers"
+Implementation,2019,Ghana,WA,,,Government,Eximbank,PEBC,1.0,234,USD,199,2.5,,15.0,5.0,20,"Integrated National Security Communications Enhancement Network (ALPHA) Project - Phase II
+"
+Signed,2019,Ghana,WA,,,Government,ICBC,CommL,1.0,95,USD,95,,libor + 1.95%,11.0,4.0,15,"Electrification of 1,033 communities in Ashanti, Brong Ahafo, Eastern, Volta and Western Regions - Phase 2 (582 communities)  under Self-Help Electrification Programme (SHEP) Phase V"
+Implementation,2019,Ghana,WA,,,Government,Poly Technologies Inc.,SC,1.0,100,USD,100,,US Libor+4.0% margin,7.0,0.5,7.5,Execution and Completion of the Military Housing Units for the Ghana Armed Forces
+Signed,2003,Guinea,WA,,,Government,CIDCA,ZIL,1.0,6,USD,6,0,,,,,Unknown
+Signed,2004,Guinea,WA,,,Government,CIDCA,ZIL,1.0,2,USD,2,0.00,,,,,Unknown
+Signed,2005,Guinea,WA,,,Government,CIDCA,ZIL,1.0,18,USD,18,0.00,,,,,Unknown
+Signed,2006,Guinea,WA,,,Government,CIDCA,ZIL,1.0,3,USD,3,0,,,,,Unknown
+Signed,2011,Guinea,WA,,,Government,CIDCA,ZIL,1.0,20,CNY,3,0,,,,,Unknown
+Completed,2011,Guinea,WA,,,Government,Eximbank,PEBC,1.0,335,USD,335,,,,,,Kaleta Hydropower Project 240MW
+Completed,2018,Guinea,WA,6.0,JV,"Souapiti Hydropower SPV (Guinea 51%, CWEC 49%)",Eximbank,PEBC,1.0,1175,USD,1175,,,,,,Souapiti Hydropower Project 450MW
+Signed,2006,Guinea,WA,,,Government,CN Gov,Loan,1.0,4,USD,4,,,,,,Kinkon Hydropower Project 3.4MW
+Signed,2004,Guinea,WA,,,Government,CN Gov,Loan,1.0,2,USD,2,,,,,,Tinkisso Hydropower Project 11MW
+Signed,2006,Guinea,WA,,,Government,Eximbank,CL,1.0,9,USD,9,,,,,,E-government
+Completed,2014,Guinea,WA,,,Government,Eximbank,CL,1.0,50,USD,50,,,,,,Societe des Telecoms de Guinea (Sotelgui) Equipment
+Completed,2014,Guinea,WA,,,Government,Eximbank,CL,1.0,214,USD,214,,,,,,National Backbone Fiber Optics
+Implementation,2018,Guinea,WA,,,Government,Eximbank,Loan,1.0,300,USD,255,,,,,,"Kansonyah Social Housing - 50,000 units"
+Implementation,2018,Guinea,WA,,,Government,ICBC,FA-sub,1.0,375,USD,375,2.5,,,4.0,15,"N1 Highway Rehabilitation, 96km (Coyah-Mamou-Dabola)"
+Implementation,2018,Guinea,WA,,,Government,ICBC,FA-sub,1.0,212,USD,212,2.5,,,4.0,15,Conakry Municipal Road Construction & Matoto and Kagbelen Flyovers Rehabilitation
+Completed,2005,Guinea,WA,,,Government,"Huawei Technologies Co., Ltd.",SC,1.0,33,USD,33,5,,,,3,Sotelgui Telecoms Equipment and Network Expansion
+Signed,2006,Liberia,WA,,,Government,CIDCA,ZIL,1.0,5,USD,5,,,,,10,SKD Sports Complex Renovations and other projects
+Completed,2017,Liberia,WA,,,Government,Eximbank,CL,1.0,50,USD,50,2,,13.0,7.0,20,Roberts International Airport Rehabilitation
+Signed,2000,Mali,WA,,,Government,Eximbank,CL,1.0,150,CNY,18,,,,,,Cement Factory
+Completed,2008,Mali,WA,6.0,JV,"New Complexe Sucrier Du Kala Superieur SA (N-Sukala) (CLETC 60%, Mali 40%)",Eximbank,CL,1.0,500,CNY,73,,,,,,"Sukala Sugar Refinery, 3rd Sugar Refinery/N-Sukala "
+Completed,2010,Mali,WA,,,Government,Eximbank,CL,1.0,77250,XOF,157,,,,,,Bamako-Ségou Road Renovation Phase 1
+Signed,2011,Mali,WA,,,Government,CIDCA,ZIL,1.0,50,CNY,8,0,,,,,Unknown
+Implementation,2013,Mali,WA,,,Government,Eximbank,EBC,1.0,145,USD,145,,,,,,Gouina Hydropower Project 140MW
+Signed,2013,Mali,WA,,,Government,CIDCA,ZIL,1.0,4000,XOF,8,0,,,,,"Unknown, Humanitarian Aid and Public Works "
+Implementation,2011,Mali,WA,,,Government,Eximbank,CL,1.0,277,CNY,44,,,,,,Fiber Optics and Telecom Modernization Project
+Implementation,2012,Mali,WA,,,Government,CIDCA,ZIL,1.0,16800,XOF,34,0,,,,,Economic and Technical Cooperation
+Signed,2014,Mali,WA,,,Government,CIDCA,ZIL,1.0,8000,XOF,15,0,,,,,Unknown
+Implementation,2014,Mali,WA,,,Government,Eximbank,CL,1.0,35000,XOF,65,,,,,,National Broadband Network
+Implementation,2018,Mali,WA,,,Government,Eximbank,Loan,1.0,93790,XOF,164,,,,,,Mali Digital 2020 (Mali Numerique 2020)
+Completed,2006,Mauritania,WA,,,Government,CIDCA,ZIL,1.0,2025,MRO,7,0,,,,,Poverty Alleviation Program
+Completed,2009,Mauritania,WA,,,Government,Eximbank,CL,1.0,2000,CNY,293,2,,,5.0,20,Nouakchott Friendship Port Expansion
+Completed,2010,Mauritania,WA,,,Government,Eximbank,CL,1.0,583,CNY,88,,,,,,"Assaba and Brakna, Poverty Delta Highway, Aftout Chergui Road, 172km"
+Signed,2010,Mauritania,WA,,,Government,CIDCA,ZIL,1.0,60,CNY,9,0,,,,,Unknown
+Completed,2013,Mauritania,WA,,,Government,CIDCA,ZIL,1.0,17,USD,17,0,,,,,Unknown
+Signed,2014,Mauritania,WA,,,Government,CIDCA,ZIL,1.0,17,USD,17,0,,,,,Unknown
+Signed,2019,Mauritania,WA,,,Government,Eximbank,CL,1.0,87,USD,87,2,,15.0,5.0,20,Integrated Marine Industrial Park and Capital Fishing Port Projects
+Implementation,2013,Mauritania,WA,,,Government,Eximbank,CL,1.0,139,USD,139,2,,,9.0,20,Gouina Hydropower Project 140MW-Mauritania portion
+Completed,2008,Niger,WA,6.0,JV,"Société de Raffinage de Zinder (SORAZ) (CNPC 60%, Niger 40%)",Eximbank,SC,1.0,352,USD,352,,Libor+3.5,,,11,SORAZ Oil Refinery Near Zinder
+Completed,2011,Niger,WA,,,Government,Eximbank,CL,1.0,650,CNY,103,1,,15.0,5.0,20,Azelik Uranium Mine
+Completed,2012,Niger,WA,,,Government,Eximbank,CL,1.0,310,CNY,50,,,,,,Potable Water Project Near Zinder
+Implementation,2013,Niger,WA,2.0,AfrStateCom,Nigerian Telecommunications Society (Sonitel) (SOE),Eximbank,CL,1.0,623,CNY,103,1,,,,20?,Fiber-optic Backbone
+Implementation,2013,Niger,WA,,,Government,Eximbank,CL,1.0,463,CNY,76,,,,,,"259km SORAZ-Zinder et Maradi-Malbaza Transmission Line, 132kV"
+Implementation,2015,Niger,WA,,,Government,CIDCA,ZIL,1.0,15,USD,15,0,,,,,Third Bridge over Niger River (The General Seyni Kountché Bridge)
+Completed,2002,Nigeria,WA,,,Government,"Alcatel-Lucent Shanghai Bell Co., Ltd.",SC,1.0,78,USD,78,Am,,,3.0,11,ALCATEL Nigerian Local Government Rural Telephony Project
+Completed,2002,Nigeria,WA,,,Government,Zhongxing Telecommunication Equipment Corporation (ZTE),SC,1.0,82,USD,82,3.5,,,6.0,12,ZTE Nigerian Local Government Rural Telephony Project
+Completed,2002,Nigeria,WA,,,Government,Shandong Electric Power Construction Corporation III (SEPCO III),SC,1.0,115,USD,115,6,,,6.0,12,"Ogun State, Papalanto Gas Power Project 335 MW "
+Completed,2002,Nigeria,WA,,,Government,China Machinery Engineering Corporation (CMEC),SC,1.0,115,USD,115,6,,,6.0,12,"Ondo State, Omotosho Gas Power Plant Project 335 MW "
+Completed,2006,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,200,USD,200,3,,,4.0,12,Nigerian Communications Satellite (NIGCOMSAT)
+Completed,2010,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,400,USD,400,2.5,,,7.0,20,Public Security Communication System Project
+Completed,2012,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,500,USD,500,2.5,,,7.0,20,"Abuja Light Rail Project, 78km "
+Implementation,2013,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,100,USD,100,2.5,,,7.0,20,ICT Infrastructure Backbone I Project
+Implementation,2013,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,984,USD,984,2.5,,,,19,Zungeru Hydroelectric Project 700MW
+Completed,2010,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,500,USD,500,2.5,,,7.0,20,"Railway Modernisation Project 1 (Idu-Kaduna), 187km"
+Implementation,2013,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,500,USD,500,2.5,,,7.0,20,4 Airports Terminal Expansion Projects
+Completed,2017,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,1267,USD,1267,2.5,,,,20,Lagos-Ibadan Railway Modernisation Project II
+Signed,2018,Nigeria,WA,,,Government,Eximbank,Loan,1.0,389,USD,389,2.5,,,7.0,20,Greater Abuja Water Supply Project
+Signed,2018,Nigeria,WA,,,Government,Eximbank,EBC,1.0,157,USD,157,2.5,,,,20,Supply of Rolling Stocks and Depot Equipment for Abuja Light Rail Project
+Signed,2018,Nigeria,WA,,,Government,Eximbank,Loan,1.0,2300,CNY,334,2.5,,,,,National ICT Infrastructure Backbone Phase II Project
+Implementation,2017,Nigeria,WA,,,Government,Eximbank,PEBC,1.0,461,USD,461,2.5,,,,20,"Abuja-Keffi-Makurdi Road Rehabilitation and Upgrade, 227km"
+Implementation,2019,Nigeria,WA,6.0,JV,"Lekki Port LFTZ Enterprise Ltd. (Lekki Port Investment Holdings Inc.) (China Harbour Engineering Company Ltd. (CHEC) & Tolaram Group 75%, Lagos State Government 20%, Nigerian Ports Authority (NPA) 5%)",CDB,Loan,1.0,629,USD,629,,,,,,Lekki Deep Water Port
+Signed,2019,Nigeria,WA,,,Government,Eximbank,Loan,1.0,209,USD,209,,,,,,Four Airport Terminals Expansion Incremental Project
+Signed,2019,Nigeria,WA,,,Government,Eximbank,Loan,1.0,184,USD,184,,,,,,Four Airport Terminals Expansion Ancillary Project
+Completed,2006,Sierra Leone,WA,2.0,AfrStateCom,Sierra Leone Telecommunications (Sierratel) (SOE),Eximbank,CL,1.0,133,CNY,17,2,,,5.0,15,Sierra Leone Rural and Sub-urban Telecommunication CDMA Network Project
+Completed,2012,Sierra Leone,WA,,,Government,Eximbank,CL,1.0,15,USD,15,2,,,5.0,20,National Optic Fiber Backbone Project
+Completed,2004,Sierra Leone,WA,,,Government,"China National Electric Engineering Co., Ltd. (CNEEC)",SC,1.0,3,USD,3,,,,,,"Goma Hydropower Project Repairs in Dodo chiefdom Kenema District, Guala Village- 4X1.5MW"
+Completed,2011,Sierra Leone,WA,,,Government,Eximbank,CL,1.0,100,CNY,16,2,,,5.0,20,Sierra Leone's National Security Network
+Completed,2014,Sierra Leone,WA,,,Government,Poly Technologies Inc.,SC,1.0,12,USD,12,,,,,,Purchase of 100 Buses
+Implementation,2016,Sierra Leone,WA,7.0,ChnCom,Wellington-Masiaka Toll Road PPP (CREC),China Railway Engineering Corporation (CREC),SC,2.0,165,USD,0,,,,4.0,27,"Wellington-Masiaka Toll Road, 67km"
+Implementation,2019,Sierra Leone,WA,,,Government,Eximbank,CL,1.0,30,USD,30,2,,,4.0,,National Fiber Optic Backbone Project Phase 2
+Completed,2007,Senegal,WA,,,Government,Eximbank,CL,1.0,370,CNY,51,,,,,,"28km Dakar Loop Power Transmission Projects, 4x90kV (360kV), Phase I "
+Completed,2009,Senegal,WA,,,Government,Eximbank,CL,1.0,160,CNY,23,,,,,,Minibuses for Senbus and Bus assembly Production
+Completed,2006,Senegal,WA,,,Government,Eximbank,CL,1.0,25000,XOF,50,,,,,,E-government Information Network Phase I
+Signed,2009,Senegal,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,10,Unknown
+Completed,2010,Senegal,WA,,,Government,Eximbank,CL,1.0,513,CNY,78,,,,,,"28km Dakar Loop Power Transmission Projects, 4x90kV (360kV), Phase II"
+Completed,2012,Senegal,WA,,,Government,Eximbank,Loan,1.0,24000,XOF,48,,,,,,E-government Project Phase 2
+Implementation,2015,Senegal,WA,,,Government,Eximbank,CL,1.0,530,CNY,82,,,,,,National Broadband
+Implementation,2009,Senegal,WA,,,Government,Eximbank,CL,1.0,225,CNY,33,,,,,,National Security Communication
+Implementation,2013,Senegal,WA,,,Government,Eximbank,EBC,1.0,70000,XOF,146,,,,,,"Gouina Hydropower 140MW Project, Senegal Portion"
+Completed,2015,Senegal,WA,,,Government,Eximbank,Loan,1.0,416000,XOF,689,2,,,5.0,25,"Thies-Touba Toll Highway, 113km"
+Signed,2013,Senegal,WA,,,Government,CN Gov,Loan,1.0,8000,XOF,17,,,,,,Boucle de Dakar Electricity Network Supplementary Phase
+Completed,2015,Senegal,WA,,,Government,Eximbank,Loan,1.0,400,USD,400,,,,,,"Road connecting Blaise-Diagne International Airport (AIBD) to Mbour and Thiès Roads, 55km"
+Implementation,2016,Senegal,WA,,,Government,Eximbank,CL,1.0,50000,XOF,79,,,,,,"Building and Rehabilitating 251 wells in 13 districts, 1800km pipeline"
+Implementation,2016,Senegal,WA,,,Government,Eximbank,Loan,1.0,20000,XOF,32,,,,,,Fire Brigade Equipment
+Completed,2018,Senegal,WA,,,Government,Eximbank,Loan,1.0,150,USD,150,,,,,,Smart Senegal Broadband Project
+Implementation,2016,Senegal,WA,,,Government,Eximbank,CL,1.0,71,USD,71,,,,,,Building Foundiougne Brigde
+Signed,2018,Senegal,WA,,,Government,ICBC,CommL,1.0,25596,XOF,45,,,,,,University Sine Saloum El-Hadj Ibrahima Niass (USSEIN)
+Completed,2004,Togo,WA,2.0,AfrStateCom,Togo Cellulaire (Togocel),Eximbank,CL,1.0,20000,XOF,42,,,,,,Telecom Network Expansion Phase 1
+Completed,2006,Togo,WA,2.0,AfrStateCom,Togo Cellulaire (Togocel),Eximbank,CL,1.0,20000,XOF,40,,,,,,Telecom Network Expansion Phase 2
+Completed,2009,Togo,WA,2.0,AfrStateCom,Togo Cellulaire (Togocel),Eximbank,CL,1.0,220,CNY,32,,,,,,CDMA Transmission Project
+Completed,2009,Togo,WA,,,Government,Eximbank,CL,1.0,99,USD,99,2,,13.0,7.0,20,"Phase I Togolese Road Network Renovation - Lome bypass, Aledjo Fault bypass, Montagne de Defale bypass, Asphalting of N1 between Tandjouare and Cinkasse (Togo-Burkina border), 12.1km"
+Signed,2009,Togo,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,4,0,,,,,Unknown
+Completed,2010,Togo,WA,,,Government,Eximbank,CL,1.0,25,USD,25,2,,,5.0,20,E-Government Project
+Signed,2011,Togo,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,5,0,,,,10,Unknown
+Completed,2012,Togo,WA,,,Government,Eximbank,CL,1.0,75,USD,75,,,,,,"New Lome International Airport (CL Portion, Total 150mn)"
+Signed,2012,Togo,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,5,0,,,,,Economic and Technical Cooperation Agreement
+Implementation,2014,Togo,WA,,,Government,Eximbank,CL,1.0,55,USD,55,,,,5.0,25,"Public Solar Street Light/Lamp Project, Phase 1 & 2"
+Completed,2013,Togo,WA,,,Government,Eximbank,CL,1.0,11848,XOF,25,,,,,,Sokode Electric Transformer Station
+Completed,2013,Togo,WA,,,Government,Eximbank,CL,1.0,45000,XOF,94,,,,,,Phase II Lome Road Asphalting (Economic and Technical Cooperation Agreement and Concessional Loan Framework 3)
+Signed,2016,Togo,WA,,,Government,Eximbank,CL,1.0,36000,XOF,57,,,,,,Adjarala Dam 147MW Add-on Loan
+Completed,2016,Togo,WA,,,Government,CIDCA,ZIL,1.0,39000,XOF,62,0,,,,,Lome International Airport Taxiway and Corridor Extension
+Completed,2012,Togo,WA,,,Government,Eximbank,EBC,1.0,75,USD,75,,,,,,"New Lome International Airport (EBC portion, total 150mn)"
+Completed,2016,Togo,WA,,,Government,Eximbank,Loan,1.0,32640,XOF,44,,,,,,Niamtougou Airport Re-development
+Signed,2010,Togo,WA,,,Government,CIDCA,ZIL,1.0,30,CNY,5,,,,,,Economic and Technical Cooperation Agreement

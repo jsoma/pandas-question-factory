@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="bulma.css" />
+    <style>
+      table {
+        font-size: 0.75em;
+      }
+      .question {
+        text-align: center;
+      }
+      h3 {
+        text-align: center;
+      }
+      pre {
+        white-space: normal;
+      }
+      #app {
+        text-align: center;
+      }
+      table {
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        <div id="app">
+          <div class="subtitle is-3">{{ question.desc }}</div>
+
+          <input
+            class="input has-text-centered is-family-code is-large mb-5"
+            type="text"
+            v-model="answer"
+            placeholder="your code goes here"
+            @keyup.enter="submitAnswer()"
+            @keyup="clearMessages()"
+          />
+
+          <pre
+            v-show="showAnswer"
+            class="mb-5"
+          ><code>{{ nonbreakingCode }}</code></pre>
+
+          <div class="mb-5" style="vertical-align: center">
+            <button v-on:click="submitAnswer()" class="button is-success mr-2">
+              Submit answer
+            </button>
+            <button
+              v-on:click="nextQuestion()"
+              class="button is-success is-light mr-2"
+            >
+              Next question
+            </button>
+            <button
+              v-on:click="showAnswer = true"
+              class="button is-success is-light"
+            >
+              Show answer
+            </button>
+          </div>
+
+          <div class="has-text-weight-bold">
+            <p v-if="errorMessage" class="has-text-danger">{{ errorMessage }}</p>
+            <p v-if="successMessage" class="has-text-success">{{ successMessage }}</p>
+          </div>
+
+          <h3 class="title is-3 pt-5">Dataset sample</h3>
+          <div v-if="columnHeaders" class="table-container">
+            <table class="table is-hoverable is-fullwidth">
+              <thead>
+                <tr>
+                  <th v-for="header in columnHeaders">{{ header }}</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr v-for="row in columnRows">
+                  <td v-for="col in row">{{ col }}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="confetti.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script>
+      var app = new Vue({
+        el: "#app",
+        data: function () {
+          return {
+            dataset: [],
+            question: {
+              difficulty: null,
+              desc: null,
+              code: null,
+              dataset_id: null,
+            },
+            questions: [],
+            datasets: [],
+            answer: null,
+            showAnswer: false,
+            errorMessage: null,
+            successMessage: null,
+          };
+        },
+        computed: {
+          columnHeaders() {
+            if (this.dataset.length > 0) {
+              return Object.keys(this.dataset[0]);
+            }
+          },
+          columnRows() {
+            return this.dataset.slice(0, 5).map((row) => Object.values(row));
+          },
+          nonbreakingCode() {
+            if (this.question.code)
+              return this.question.code.replaceAll(" ", "\xa0");
+          },
+        },
+        created() {
+          fetch("questions.json")
+            .then((response) => response.json())
+            .then((json) => {
+              this.datasets = json["datasets"];
+              this.questions = json["questions"];
+              this.nextQuestion();
+            });
+        },
+        methods: {
+          clearMessages() {
+            this.successMessage = null;
+            this.errorMessage = null;
+          },
+          nextQuestion() {
+            this.clearMessages();
+            this.showAnswer = false;
+            this.answer = "";
+            this.question =
+              this.questions[Math.floor(Math.random() * this.questions.length)];
+            this.dataset = this.datasets[this.question.dataset_id];
+          },
+          showAnswer() {},
+          submitAnswer() {
+            this.clearMessages();
+            const cleaned = this.answer
+              .replaceAll(".isnull()", ".isna()")
+              .replaceAll(".notnull()", ".notna()");
+
+            if (cleaned != this.question.code) {
+              this.errorMessage = "Sorry, try again!"
+            } else {
+              this.successMessage = "Perfect!"
+              confetti(document.querySelector("button"), {
+                angle: 60,
+                spread: 50,
+                startVelocity: 80,
+                elementCount: 100,
+                decay: 0.8,
+              });
+            }
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
