@@ -19,7 +19,12 @@ datasets = [
     loans,
     cases
 ]
-bank = QuestionBank(datasets)
+names = {
+    'df': 100,
+    'merged': 20,
+    'df2': 20
+}
+bank = QuestionBank(datasets, df_names=names)
 bank.generate_questions(100)
 questions = bank.for_export()
 

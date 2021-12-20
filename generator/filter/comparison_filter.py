@@ -28,7 +28,7 @@ class ComparisonFilter(Filter):
             self.target = random.choice(self.df[self.colname].dropna().unique())
         else:
             anchor = random.randint(25, 75) / 100
-            self.target = self.df[self.colname].quantile(anchor)
+            self.target = self.df[self.colname].quantile(anchor).round(2)
 
     @staticmethod
     def column_options(cols):

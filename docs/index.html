@@ -21,10 +21,24 @@
       table {
         text-align: left;
       }
+      .navbar {
+        align-items: center;
+        justify-content: center;
+      }
+
     </style>
   </head>
   <body>
-    <section class="section">
+    <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="https://github.com/jsoma/pandas-question-factory">
+          welcome to the&nbsp;<strong>pandas question factory</strong>
+        </a>
+      </div>
+    </nav>
+
+    
+      <section class="section">
       <div class="container">
         <div id="app">
           <div class="subtitle is-3">{{ question.desc }}</div>
@@ -46,18 +60,18 @@
           ><code>{{ nonbreakingCode }}</code></pre>
 
           <div class="mb-5" style="vertical-align: center">
-            <button v-on:click="submitAnswer()" class="button is-success mr-2">
+            <button v-on:click="submitAnswer()" class="button is-primary mr-2">
               Submit answer
             </button>
             <button
               v-on:click="nextQuestion()"
-              class="button is-success is-light mr-2"
+              class="button is-primary is-light mr-2"
             >
               Next question
             </button>
             <button
               v-on:click="showAnswer = true"
-              class="button is-success is-light"
+              class="button is-primary is-light"
             >
               Show answer
             </button>
@@ -86,6 +100,10 @@
         </div>
       </div>
     </section>
+    <footer class="footer has-text-small has-text-centered">
+      <p>summoned from the depths by <a href="http://twitter.com/dangerscarf">j soma</a></p>
+      <p>repo at <a href="https://github.com/jsoma/pandas-question-factory">https://github.com/jsoma/pandas-question-factory</a></p>
+    </footer>
 
     <script src="confetti.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>

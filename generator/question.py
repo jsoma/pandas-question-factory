@@ -142,15 +142,16 @@ class Question:
         else:
             self.desc = f"for a dataframe named {self.df_name}, "
 
-        if self.aggregation:
-            self.desc += f" {self.aggregation.get_desc()}"
-        else:
-            self.desc = f"display all rows {self.desc}"
-
         if self.filters:
             self.desc += " where "
             wheres = [f.get_desc() for f in self.filters]
             self.desc += ' and '.join(wheres)
+            self.desc += ","
+
+        if self.aggregation:
+            self.desc += f" {self.aggregation.get_desc()}"
+        else:
+            self.desc = f"display all rows {self.desc}"
 
         if self.groupby:
             self.desc += f" {self.groupby.get_desc()}, "
