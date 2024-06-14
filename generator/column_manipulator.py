@@ -23,10 +23,10 @@ class ColumnManipulator:
         return self.desc.format(df_column=self.col_accessor(True), column=self.col_accessor())
 
     def col_accessor(self, include_df=False):
-        if ' ' in self.colname:
-            col = f"['{self.colname}']"
-        else:
-            col = f".{self.colname}"
+        # if ' ' in self.colname:
+        col = f"['{self.colname}']"
+        # else:
+        #     col = f".{self.colname}"
         if include_df:
             return f"{DF}{col}"
         else:
