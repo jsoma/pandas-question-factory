@@ -16,7 +16,7 @@ class ComparisonFilter(Filter):
     }
     
     def set_desc(self):
-        self.desc = f"{self.colname} is {self.comparison} {self.target}"
+        self.desc = f"{self.colname} is {self.comparison} {self.target:,}"
 
     def set_code(self):
         self.code = f"{DF_COLUMN} {self.COMPARISONS[self.comparison]} {self.target}"

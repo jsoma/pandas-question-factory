@@ -14,10 +14,15 @@ cases = pd.read_csv("data/Medical_Examiner_Case_Archive.csv", nrows=10000)
 cases['latitude'] = cases['latitude'].round(3)
 cases['longitude'] = cases['longitude'].round(3)
 
+plants = pd.read_csv("data/powerplants.csv", usecols=[
+    'plant_name', 'utility_name', 'sector_name', 'city', 'primary_source',	'total_mw',	'coal_mw', 'hydro_mw'
+])
+
 datasets = [
     countries,
     loans,
-    cases
+    cases,
+    plants,
 ]
 names = {
     'df': 100,
